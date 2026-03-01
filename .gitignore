@@ -1,0 +1,2 @@
+# Ignore very large raw dataset (GitHub limit 100MB/file)
+data/twitter.json
