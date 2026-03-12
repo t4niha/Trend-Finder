@@ -1,0 +1,9 @@
+# Python virtual environment
+venv/
+
+# Compiled Python files
+*.pyc
+__pycache__/
+
+# Google Cloud JSON key
+service_account.json

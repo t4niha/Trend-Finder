@@ -53,6 +53,7 @@ cursor.execute("""
 CREATE TABLE trending_topics (
     id BIGINT PRIMARY KEY,
     text TEXT,
+    text_en TEXT,
     created_at DATE,
     username TEXT,
     likes FLOAT,
