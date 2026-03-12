@@ -3,3 +3,6 @@ psycopg2-binary
 google-cloud-translate
 langdetect
 tqdm
+notebook
+ipykernel
+jupyter
