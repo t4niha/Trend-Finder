@@ -22,7 +22,7 @@ This module preprocesses social media text data before it is used for further an
 
 1. preprocessing.py
 Contains the main function named clean_post(text)
-This function processes a single social media post and returns the cleaned version of the text.
+This function processes a single social media post and returns the cleaned text.
 
 2. clean_dataset.py
 This script applies the preprocessing function to all JSON datasets in the data folder and generates cleaned versions of the datasets.
