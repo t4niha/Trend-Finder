@@ -6,3 +6,7 @@ tqdm
 notebook
 ipykernel
 jupyter
+scikit-learn
+hdbscan
+matplotlib
+seaborn
