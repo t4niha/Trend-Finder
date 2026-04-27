@@ -1,0 +1,3780 @@
+{
+  "generated_at": "2026-04-27 15:23:50",
+  "model": "gemini-2.5-flash-lite",
+  "niches_processed": [
+    "technology",
+    "worldnews",
+    "movies",
+    "smartphones",
+    "gaming",
+    "science"
+  ],
+  "results": {
+    "technology": [
+      {
+        "niche": "technology",
+        "trends": [
+          {
+            "rank": 1,
+            "title": "Reddit's Bot Crackdown: Verifying Human Identity Online",
+            "description": "Reddit is implementing stricter measures to verify human users and combat bot activity, driven by concerns over platform integrity and the proliferation of AI-generated content. Users are discussing the necessity of these measures due to the increasing prevalence of 'fishy' accounts, signaling a broader industry-wide effort to distinguish between authentic and automated online interactions. This trend reflects a growing tension between user privacy and platform accountability in the age of advanced AI.",
+            "key_entities": {
+              "companies": [
+                "Reddit",
+                "FBI"
+              ],
+              "products": [
+                "FaceID"
+              ],
+              "people": [
+                "Kash Patel"
+              ]
+            },
+            "sentiment": "mixed",
+            "importance": "This trend highlights a critical shift in how online platforms are addressing the challenges posed by AI and bots to authenticity and trust.",
+            "references": [
+              "https://reddit.com/r/technology/comments/1s3hb2v/reddit_accounts_with_fishy_botlike_behavior_will/",
+              "https://reddit.com/r/technology/comments/1s544p5/reddit_cracks_down_on_bots_with_new_labels_and/",
+              "https://reddit.com/r/technology/comments/1s3i94j/reddit_is_considering_using_faceid_and_passkeys/"
+            ]
+          },
+          {
+            "rank": 2,
+            "title": "AI's Impact on Human Roles and AI Ethics Debate",
+            "description": "The community is actively debating the evolving role of AI, particularly its implications for human creativity and employment, with discussions ranging from job displacement to the ethical considerations of AI-generated content. This recurring conversation is fueled by high-profile figures and companies making pronouncements about the future of work and the capabilities of AI, indicating a societal reckoning with AI's transformative potential. The sentiment suggests a mix of excitement for AI's advancement and anxiety about its disruptive effects on traditional professions and human value.",
+            "key_entities": {
+              "companies": [
+                "Palantir",
+                "Meta",
+                "Deloitte",
+                "Anthropic",
+                "BlackRock"
+              ],
+              "products": [
+                "AI"
+              ],
+              "people": [
+                "Palantir's billionaire CEO"
+              ]
+            },
+            "sentiment": "mixed",
+            "importance": "This trend underscores the rapid societal integration of AI and the urgent need to address its economic and ethical ramifications.",
+            "references": [
+              "https://reddit.com/r/technology/comments/1s3cykn/palantirs_billionaire_ceo_says_only_two_kinds_of/",
+              "https://reddit.com/r/technology/comments/1s4n6zx/major_outgoing_ceos_are_citing_ai_as_a_factor_in/",
+              "https://reddit.com/r/technology/comments/1s39x19/we_need_more_plumbers_and_fewer_lawyers_in_ai_age/"
+            ]
+          },
+          {
+            "rank": 3,
+            "title": "Tech Giants Face Liability Over Harm to Young Users",
+            "description": "There's a significant recurring discussion around major tech companies, particularly Meta and Google, facing legal challenges and liability related to the impact of their platforms on young users. The community is closely following 'landmark' trials and courtroom defeats concerning social media addiction and child safety, reflecting a growing public demand for greater accountability from these platforms. This trend signals a potential shift in regulatory power and a re-evaluation of how tech giants are held responsible for the societal consequences of their products.",
+            "key_entities": {
+              "companies": [
+                "Meta",
+                "Google",
+                "YouTube",
+                "Supreme Court"
+              ],
+              "products": [
+                "social media"
+              ],
+              "people": []
+            },
+            "sentiment": "negative",
+            "importance": "This trend indicates a turning point in holding tech behemoths accountable for the negative societal impacts of their services, especially concerning vulnerable populations.",
+            "references": [
+              "https://reddit.com/r/technology/comments/1s3hef0/meta_and_youtube_found_liable_in_social_media/",
+              "https://reddit.com/r/technology/comments/1s35g52/new_mexico_just_handed_meta_its_first_courtroom/",
+              "https://reddit.com/r/technology/comments/1s4jqux/landmark_social_media_trial_could_cost_meta/"
+            ]
+          }
+        ],
+        "week_number": 13,
+        "week_label": "Mar 25 – Mar 29, 2026",
+        "post_count": 148,
+        "clusters_found": 5,
+        "noise_posts": 53,
+        "cluster_stats": [
+          {
+            "cluster_id": 3,
+            "importance_score": 3042.61,
+            "post_count": 13,
+            "avg_score": 5818.4,
+            "avg_comments": 383.4,
+            "avg_upvote_ratio": 0.92
+          },
+          {
+            "cluster_id": 4,
+            "importance_score": 1880.78,
+            "post_count": 17,
+            "avg_score": 3525.1,
+            "avg_comments": 346.0,
+            "avg_upvote_ratio": 0.721
+          },
+          {
+            "cluster_id": 0,
+            "importance_score": 1853.38,
+            "post_count": 21,
+            "avg_score": 3580.4,
+            "avg_comments": 152.3,
+            "avg_upvote_ratio": 0.874
+          },
+          {
+            "cluster_id": 2,
+            "importance_score": 1241.72,
+            "post_count": 31,
+            "avg_score": 2342.6,
+            "avg_comments": 189.4,
+            "avg_upvote_ratio": 0.68
+          },
+          {
+            "cluster_id": 1,
+            "importance_score": 219.67,
+            "post_count": 13,
+            "avg_score": 372.2,
+            "avg_comments": 65.2,
+            "avg_upvote_ratio": 0.699
+          }
+        ]
+      },
+      {
+        "niche": "technology",
+        "trends": [
+          {
+            "rank": 1,
+            "title": "Geopolitical Tensions Disrupt Global Tech Infrastructure",
+            "description": "A significant pattern emerging is the impact of international conflict and threats on critical technology infrastructure, particularly data centers and tech companies. Users are discussing how geopolitical events, such as Iran's threats, directly endanger vital digital resources, raising concerns about global stability and the vulnerability of cloud services. This signals a growing awareness of the interconnectedness between international affairs and the physical and digital foundations of modern technology.",
+            "key_entities": {
+              "companies": [
+                "Amazon",
+                "Oracle",
+                "Microsoft",
+                "Google",
+                "Apple",
+                "AWS"
+              ],
+              "products": [
+                "data centers"
+              ],
+              "people": [
+                "SpaceX"
+              ]
+            },
+            "sentiment": "mixed",
+            "importance": "This trend highlights the increasing fragility of global tech infrastructure in the face of geopolitical instability.",
+            "references": [
+              "https://reddit.com/r/technology/comments/1s8ua7r/iran_threatens_to_attack_us_tech_companies/",
+              "https://reddit.com/r/technology/comments/1scgw7u/iranian_missile_blitz_takes_down_aws_data_centers/",
+              "https://reddit.com/r/technology/comments/1sau9ci/iran_says_it_hit_oracle_facilities_in_uae/"
+            ]
+          },
+          {
+            "rank": 2,
+            "title": "OpenAI's Ethical and Financial Scrutiny Intensifies",
+            "description": "There's a clear trend of scrutiny surrounding OpenAI, with discussions focusing on its operational costs, undisclosed backing for lobbying efforts, and internal legal disputes. The community is concerned about the transparency and ethical implications of OpenAI's expansion and its influence on AI regulation, as well as internal corporate governance issues. This reflects a growing public and user distrust and demand for accountability from leading AI developers.",
+            "key_entities": {
+              "companies": [
+                "OpenAI",
+                "Meta"
+              ],
+              "products": [
+                "ChatGPT",
+                "Sora"
+              ],
+              "people": [
+                "Sam Altman"
+              ]
+            },
+            "sentiment": "mixed",
+            "importance": "This trend signifies a critical moment for AI development, where public trust hinges on transparency and ethical practices.",
+            "references": [
+              "https://reddit.com/r/technology/comments/1sa2x7w/group_pushing_age_verification_requirements_for/",
+              "https://reddit.com/r/technology/comments/1s9r1yd/kids_groups_say_they_didnt_know_openai_was_behind/",
+              "https://reddit.com/r/technology/comments/1sc3b0j/sam_altmans_sister_amends_lawsuit_accusing_openai/"
+            ]
+          },
+          {
+            "rank": 3,
+            "title": "Space Exploration Milestones and Technical Glitches",
+            "description": "The community is actively discussing advancements and operational aspects of space exploration, particularly NASA's Artemis program and deep space missions. Users are engaging with both the exciting progress, like laser communications and distant spacecraft milestones, and the more mundane, yet crucial, technical challenges and repairs faced by astronauts. This indicates a strong interest in the future of space, balanced with a realistic appreciation for the engineering complexities involved.",
+            "key_entities": {
+              "companies": [
+                "NASA",
+                "Microsoft"
+              ],
+              "products": [
+                "Artemis II",
+                "Voyager 1"
+              ],
+              "people": []
+            },
+            "sentiment": "positive",
+            "importance": "This trend underscores persistent public fascination with space exploration and a keen interest in its practical development.",
+            "references": [
+              "https://reddit.com/r/technology/comments/1s7lmdx/voyager_1_approaches_one_light_day_from_earth/",
+              "https://reddit.com/r/technology/comments/1sbcrsv/artemis_ii_astronauts_have_two_microsoft_outlooks/",
+              "https://reddit.com/r/technology/comments/1sahquk/artemis_2_crew_fixes_toilet_can_now_pee_in_it/"
+            ]
+          }
+        ],
+        "week_number": 14,
+        "week_label": "Mar 30 – Apr 05, 2026",
+        "post_count": 223,
+        "clusters_found": 7,
+        "noise_posts": 30,
+        "cluster_stats": [
+          {
+            "cluster_id": 1,
+            "importance_score": 3189.39,
+            "post_count": 30,
+            "avg_score": 6098.8,
+            "avg_comments": 411.1,
+            "avg_upvote_ratio": 0.832
+          },
+          {
+            "cluster_id": 2,
+            "importance_score": 1488.09,
+            "post_count": 24,
+            "avg_score": 2809.9,
+            "avg_comments": 221.0,
+            "avg_upvote_ratio": 0.843
+          },
+          {
+            "cluster_id": 0,
+            "importance_score": 1348.76,
+            "post_count": 18,
+            "avg_score": 2524.4,
+            "avg_comments": 231.7,
+            "avg_upvote_ratio": 0.852
+          },
+          {
+            "cluster_id": 5,
+            "importance_score": 1318.77,
+            "post_count": 57,
+            "avg_score": 2477.9,
+            "avg_comments": 216.9,
+            "avg_upvote_ratio": 0.736
+          },
+          {
+            "cluster_id": 3,
+            "importance_score": 1089.48,
+            "post_count": 15,
+            "avg_score": 1984.4,
+            "avg_comments": 270.9,
+            "avg_upvote_ratio": 0.8
+          },
+          {
+            "cluster_id": 4,
+            "importance_score": 829.15,
+            "post_count": 21,
+            "avg_score": 1564.5,
+            "avg_comments": 103.3,
+            "avg_upvote_ratio": 0.796
+          },
+          {
+            "cluster_id": 6,
+            "importance_score": 602.12,
+            "post_count": 28,
+            "avg_score": 1123.8,
+            "avg_comments": 90.0,
+            "avg_upvote_ratio": 0.66
+          }
+        ]
+      },
+      {
+        "niche": "technology",
+        "trends": [
+          {
+            "rank": 1,
+            "title": "AI Liability and Harm: Public Scrutiny Intensifies",
+            "description": "The community is intensely discussing the potential for AI systems like ChatGPT to cause harm, ranging from mass casualties to personal stalking incidents, and OpenAI's attempts to seek liability protection for such outcomes. This recurring discussion highlights a growing concern about the real-world consequences of advanced AI and the ethical responsibilities of its creators. It signals a critical juncture where the public is demanding accountability and clear regulatory frameworks for AI development and deployment.",
+            "key_entities": {
+              "companies": [
+                "OpenAI",
+                "Anthropic"
+              ],
+              "products": [
+                "ChatGPT"
+              ],
+              "people": [
+                "Sam Altman"
+              ]
+            },
+            "sentiment": "mixed",
+            "importance": "This trend signifies a crucial societal debate about AI safety, accountability, and the legal ramifications of AI-induced harm.",
+            "references": [
+              "https://reddit.com/r/technology/comments/1shd0fx/openai_backs_bill_that_would_limit_liability_for/",
+              "https://reddit.com/r/technology/comments/1sjbyv4/openai_is_backing_an_illinois_state_bill_to/",
+              "https://reddit.com/r/technology/comments/1sgyqgf/family_of_man_killed_in_shooting_at_florida_state/"
+            ]
+          },
+          {
+            "rank": 2,
+            "title": "AI's Impact on Entry-Level Jobs and Workforce Fears",
+            "description": "There's a strong and growing sentiment among younger workers and recent graduates that AI is rapidly diminishing entry-level job opportunities, leading to fear and uncertainty about their future careers. This pattern reflects anxieties about the evolving job market and the effectiveness of traditional career paths in an AI-driven economy. It suggests a potential shift in workforce expectations and the need for adaptive education and reskilling strategies.",
+            "key_entities": {
+              "companies": [
+                "AMD"
+              ],
+              "products": [
+                "AI"
+              ],
+              "people": [
+                "Claude"
+              ]
+            },
+            "sentiment": "negative",
+            "importance": "This trend highlights significant concerns about future employment prospects and the potential for widespread job displacement due to AI automation.",
+            "references": [
+              "https://reddit.com/r/technology/comments/1si20pk/gen_z_workers_are_so_fearful_ai_will_take_their/",
+              "https://reddit.com/r/technology/comments/1sjh7wn/i_feel_helpless_college_graduates_cant_find/",
+              "https://reddit.com/r/technology/comments/1shcfz7/ai_is_replacing_entrylevel_jobs_faster_than/"
+            ]
+          },
+          {
+            "rank": 3,
+            "title": "Tech Layoffs Continue Amidst AI Investment",
+            "description": "The tech industry is experiencing a significant wave of layoffs, with major companies like Oracle cutting substantial portions of their workforce, often citing the need to fund AI data centers. This trend points to a paradoxical situation where despite significant AI advancements and investments, traditional tech jobs are being reduced. It signals a strategic reallocation of resources within the tech sector, prioritizing AI development over existing human capital.",
+            "key_entities": {
+              "companies": [
+                "Oracle",
+                "Meta",
+                "Microsoft"
+              ],
+              "products": [
+                "AI Data Centers",
+                "Azure"
+              ],
+              "people": [
+                "Hilary Maxson",
+                "Benioff"
+              ]
+            },
+            "sentiment": "mixed",
+            "importance": "This trend reveals a strategic shift in the tech industry, where job cuts are directly linked to the pursuit of AI dominance and infrastructure development.",
+            "references": [
+              "https://reddit.com/r/technology/comments/1sf6fb7/oracle_appoints_hilary_maxson_as_cfo_with_297/",
+              "https://reddit.com/r/technology/comments/1sfzw39/tech_industry_lays_off_nearly_80000_employees_in/",
+              "https://reddit.com/r/technology/comments/1sgjrh1/oracle_layoffs_2026_30000_jobs_cut_to_fund_ai/"
+            ]
+          }
+        ],
+        "week_number": 15,
+        "week_label": "Apr 06 – Apr 12, 2026",
+        "post_count": 394,
+        "clusters_found": 15,
+        "noise_posts": 118,
+        "cluster_stats": [
+          {
+            "cluster_id": 5,
+            "importance_score": 2760.28,
+            "post_count": 32,
+            "avg_score": 5278.2,
+            "avg_comments": 349.3,
+            "avg_upvote_ratio": 0.819
+          },
+          {
+            "cluster_id": 12,
+            "importance_score": 1910.77,
+            "post_count": 13,
+            "avg_score": 3611.1,
+            "avg_comments": 298.8,
+            "avg_upvote_ratio": 0.78
+          },
+          {
+            "cluster_id": 10,
+            "importance_score": 1783.78,
+            "post_count": 10,
+            "avg_score": 3415.0,
+            "avg_comments": 194.4,
+            "avg_upvote_ratio": 0.898
+          },
+          {
+            "cluster_id": 2,
+            "importance_score": 1632.81,
+            "post_count": 17,
+            "avg_score": 3146.8,
+            "avg_comments": 139.1,
+            "avg_upvote_ratio": 0.884
+          },
+          {
+            "cluster_id": 7,
+            "importance_score": 1354.02,
+            "post_count": 12,
+            "avg_score": 2468.4,
+            "avg_comments": 351.9,
+            "avg_upvote_ratio": 0.712
+          },
+          {
+            "cluster_id": 4,
+            "importance_score": 1037.26,
+            "post_count": 38,
+            "avg_score": 1957.1,
+            "avg_comments": 136.1,
+            "avg_upvote_ratio": 0.895
+          },
+          {
+            "cluster_id": 6,
+            "importance_score": 977.64,
+            "post_count": 25,
+            "avg_score": 1841.5,
+            "avg_comments": 140.5,
+            "avg_upvote_ratio": 0.737
+          },
+          {
+            "cluster_id": 1,
+            "importance_score": 957.3,
+            "post_count": 14,
+            "avg_score": 1793.6,
+            "avg_comments": 140.1,
+            "avg_upvote_ratio": 0.923
+          },
+          {
+            "cluster_id": 8,
+            "importance_score": 944.93,
+            "post_count": 11,
+            "avg_score": 1748.0,
+            "avg_comments": 183.3,
+            "avg_upvote_ratio": 0.797
+          },
+          {
+            "cluster_id": 0,
+            "importance_score": 624.11,
+            "post_count": 12,
+            "avg_score": 1159.4,
+            "avg_comments": 90.8,
+            "avg_upvote_ratio": 0.857
+          },
+          {
+            "cluster_id": 3,
+            "importance_score": 517.19,
+            "post_count": 16,
+            "avg_score": 964.2,
+            "avg_comments": 62.8,
+            "avg_upvote_ratio": 0.811
+          },
+          {
+            "cluster_id": 9,
+            "importance_score": 430.96,
+            "post_count": 20,
+            "avg_score": 777.0,
+            "avg_comments": 81.9,
+            "avg_upvote_ratio": 0.896
+          },
+          {
+            "cluster_id": 14,
+            "importance_score": 410.93,
+            "post_count": 19,
+            "avg_score": 751.2,
+            "avg_comments": 67.9,
+            "avg_upvote_ratio": 0.749
+          },
+          {
+            "cluster_id": 11,
+            "importance_score": 392.45,
+            "post_count": 25,
+            "avg_score": 688.2,
+            "avg_comments": 120.4,
+            "avg_upvote_ratio": 0.611
+          },
+          {
+            "cluster_id": 13,
+            "importance_score": 141.25,
+            "post_count": 12,
+            "avg_score": 242.1,
+            "avg_comments": 31.8,
+            "avg_upvote_ratio": 0.534
+          }
+        ]
+      },
+      {
+        "niche": "technology",
+        "trends": [
+          {
+            "rank": 1,
+            "title": "AI Backlash Fuels Growing Social Unrest and Skepticism",
+            "description": "A notable pattern of negative sentiment towards AI is emerging, fueled by acts of protest and widespread questioning of its impact. The community is discussing concerns ranging from direct action against AI figures to broader skepticism about AI's claimed benefits on employment and productivity. This suggests a growing public unease and a potential shift in how AI's societal integration is perceived.",
+            "key_entities": {
+              "companies": [
+                "Microsoft",
+                "Google",
+                "Anthropic"
+              ],
+              "products": [
+                "ChatGPT",
+                "Claude Opus 4.7"
+              ],
+              "people": [
+                "Sam Altman",
+                "Elon Musk"
+              ]
+            },
+            "sentiment": "negative",
+            "importance": "This trend signals a critical turning point in public perception of AI, moving beyond theoretical discussions to tangible societal concerns and potential regulatory pressures.",
+            "references": [
+              "https://reddit.com/r/technology/comments/1skp97a/man_who_threw_molotov_cocktail_at_sam_altmans/",
+              "https://reddit.com/r/technology/comments/1slg08d/23_major_news_sites_have_blocked_the_wayback/",
+              "https://reddit.com/r/technology/comments/1soe5wg/antiai_sentiment_is_on_the_riseand_its_starting/"
+            ]
+          },
+          {
+            "rank": 2,
+            "title": "Medical Breakthroughs Promise New Avenues for Disease Treatment",
+            "description": "Discussions around novel medical treatments, particularly for complex diseases like pancreatic cancer and neurological conditions, are gaining traction. Users are sharing positive news about mRNA vaccines, experimental drugs, and innovative chemical compounds showing promise in early trials and research. This indicates a community excited by the potential of scientific advancement to offer solutions for currently intractable health issues.",
+            "key_entities": {
+              "companies": [],
+              "products": [
+                "mRNA vaccine",
+                "Nasal Spray"
+              ],
+              "people": []
+            },
+            "sentiment": "positive",
+            "importance": "This trend highlights a strong interest in and optimism for cutting-edge medical research that could redefine treatment paradigms for major diseases.",
+            "references": [
+              "https://reddit.com/r/technology/comments/1sq7wg3/pancreatic_cancer_mrna_vaccine_shows_lasting/",
+              "https://reddit.com/r/technology/comments/1so58wi/nasal_spray_reverses_brain_aging_and_inflammation/",
+              "https://reddit.com/r/technology/comments/1spclay/experimental_drug_doubles_oneyear_survival_in/"
+            ]
+          }
+        ],
+        "week_number": 16,
+        "week_label": "Apr 13 – Apr 19, 2026",
+        "post_count": 357,
+        "clusters_found": 2,
+        "noise_posts": 5,
+        "cluster_stats": [
+          {
+            "cluster_id": 1,
+            "importance_score": 1268.73,
+            "post_count": 336,
+            "avg_score": 2404.6,
+            "avg_comments": 165.9,
+            "avg_upvote_ratio": 0.835
+          },
+          {
+            "cluster_id": 0,
+            "importance_score": 429.74,
+            "post_count": 16,
+            "avg_score": 789.7,
+            "avg_comments": 57.9,
+            "avg_upvote_ratio": 0.877
+          }
+        ]
+      },
+      {
+        "niche": "technology",
+        "trends": [
+          {
+            "rank": 1,
+            "title": "AI Ethics and Accountability Under Scrutiny",
+            "description": "A significant pattern emerges regarding the ethical implications and potential misuse of AI, particularly concerning tools like ChatGPT and the involvement of companies like Palantir. Users are expressing concern and debate around AI's role in criminal activity, its potential for generating harmful content, and the accountability of the companies developing these technologies. This signals a growing societal unease and demand for greater transparency and ethical guidelines in AI development.",
+            "key_entities": {
+              "companies": [
+                "OpenAI",
+                "Palantir"
+              ],
+              "products": [
+                "ChatGPT"
+              ],
+              "people": []
+            },
+            "sentiment": "mixed",
+            "importance": "This trend highlights a critical juncture in AI adoption, where public and regulatory scrutiny of AI's societal impact is intensifying.",
+            "references": [
+              "https://reddit.com/r/technology/comments/1stq5fk/palantir_employees_are_starting_to_wonder_if_theyre_the_bad_guys/",
+              "https://reddit.com/r/technology/comments/1ssspo5/openai_faces_criminal_probe_over_role_of_chatgpt/",
+              "https://reddit.com/r/technology/comments/1ssn8bf/floridas_attorney_general_launches_criminal_probe/"
+            ]
+          },
+          {
+            "rank": 2,
+            "title": "AI Investment Frenzy and Startup Valuations Soar",
+            "description": "The community is consistently discussing massive financial investments and sky-high valuations of AI companies, indicating a speculative boom in the AI sector. Discussions center on major funding rounds, secondary market valuations, and secretive AI startups, reflecting a fervent investor interest and the rapid growth of AI's economic potential. This pattern signals a significant shift in venture capital focus and a race to dominate the AI landscape.",
+            "key_entities": {
+              "companies": [
+                "Amazon",
+                "Anthropic",
+                "OpenAI",
+                "Tesla"
+              ],
+              "products": [],
+              "people": [
+                "Jeff Bezos",
+                "Jensen Huang"
+              ]
+            },
+            "sentiment": "positive",
+            "importance": "This trend underscores the massive economic forces and competitive landscape shaping the future of AI development and deployment.",
+            "references": [
+              "https://reddit.com/r/technology/comments/1st6fxr/anthropic_has_surged_to_a_trilliondollar/",
+              "https://reddit.com/r/technology/comments/1srgg9z/jeff_bezos_secretive_ai_startup_is_set_to_be/",
+              "https://reddit.com/r/technology/comments/1stt5zf/tesla_slips_onesentence_disclosure_of_a/"
+            ]
+          },
+          {
+            "rank": 3,
+            "title": "AI's Societal Impact and Human Interaction Shift",
+            "description": "A recurring theme is the multifaceted impact of AI on human life, including employment, relationships, and the creation of synthetic content. Users are discussing AI's potential to displace jobs, the emergence of AI companions affecting social dynamics, and the use of AI in scams and political manipulation. This highlights a growing awareness and concern about how AI is reshaping societal norms and individual human experiences.",
+            "key_entities": {
+              "companies": [
+                "Anthropic"
+              ],
+              "products": [
+                "AI-generated content",
+                "AI girlfriends"
+              ],
+              "people": [
+                "Sunak",
+                "Sam Altman's"
+              ]
+            },
+            "sentiment": "mixed",
+            "importance": "This trend points to the profound and often complex ways AI is integrating into and altering the fabric of everyday human existence.",
+            "references": [
+              "https://reddit.com/r/technology/comments/1sty6lk/ai_is_already_leading_to_fewer_jobs_for_young/",
+              "https://reddit.com/r/technology/comments/1su3pad/teen_boys_are_choosing_ai_girlfriends_over_real/",
+              "https://reddit.com/r/technology/comments/1srpnzi/this_scammer_used_an_aigenerated_maga_girl_to/"
+            ]
+          }
+        ],
+        "week_number": 17,
+        "week_label": "Apr 20 – Apr 24, 2026",
+        "post_count": 295,
+        "clusters_found": 10,
+        "noise_posts": 69,
+        "cluster_stats": [
+          {
+            "cluster_id": 3,
+            "importance_score": 1891.05,
+            "post_count": 15,
+            "avg_score": 3621.8,
+            "avg_comments": 210.7,
+            "avg_upvote_ratio": 0.847
+          },
+          {
+            "cluster_id": 7,
+            "importance_score": 1243.98,
+            "post_count": 44,
+            "avg_score": 2345.5,
+            "avg_comments": 188.5,
+            "avg_upvote_ratio": 0.734
+          },
+          {
+            "cluster_id": 9,
+            "importance_score": 1120.88,
+            "post_count": 18,
+            "avg_score": 2106.2,
+            "avg_comments": 168.8,
+            "avg_upvote_ratio": 0.857
+          },
+          {
+            "cluster_id": 0,
+            "importance_score": 809.78,
+            "post_count": 13,
+            "avg_score": 1492.6,
+            "avg_comments": 162.8,
+            "avg_upvote_ratio": 0.732
+          },
+          {
+            "cluster_id": 8,
+            "importance_score": 775.25,
+            "post_count": 15,
+            "avg_score": 1479.7,
+            "avg_comments": 57.4,
+            "avg_upvote_ratio": 0.91
+          },
+          {
+            "cluster_id": 6,
+            "importance_score": 766.34,
+            "post_count": 18,
+            "avg_score": 1419.4,
+            "avg_comments": 130.6,
+            "avg_upvote_ratio": 0.873
+          },
+          {
+            "cluster_id": 4,
+            "importance_score": 558.4,
+            "post_count": 47,
+            "avg_score": 1040.6,
+            "avg_comments": 68.1,
+            "avg_upvote_ratio": 0.883
+          },
+          {
+            "cluster_id": 2,
+            "importance_score": 424.16,
+            "post_count": 20,
+            "avg_score": 764.0,
+            "avg_comments": 86.8,
+            "avg_upvote_ratio": 0.805
+          },
+          {
+            "cluster_id": 5,
+            "importance_score": 249.71,
+            "post_count": 16,
+            "avg_score": 426.9,
+            "avg_comments": 63.0,
+            "avg_upvote_ratio": 0.867
+          },
+          {
+            "cluster_id": 1,
+            "importance_score": 177.89,
+            "post_count": 20,
+            "avg_score": 277.9,
+            "avg_comments": 79.7,
+            "avg_upvote_ratio": 0.752
+          }
+        ]
+      }
+    ],
+    "worldnews": [
+      {
+        "niche": "worldnews",
+        "trends": [
+          {
+            "rank": 1,
+            "title": "Escalating drone warfare and defense in Ukraine",
+            "description": "Users are intensely discussing the ongoing drone conflict between Russia and Ukraine, highlighting Ukrainian defense successes and Russian escalation tactics. The frequency of keywords like 'drone,' 'strike,' and 'air defense' indicates a community deeply engaged with the evolving nature of this warfare and its impact on civilian areas. This signals a growing concern about the proliferation and effectiveness of drone technology in modern conflicts.",
+            "key_entities": {
+              "companies": [],
+              "products": [],
+              "people": [
+                "Zelenskyy",
+                "Putin"
+              ]
+            },
+            "sentiment": "mixed",
+            "importance": "This trend highlights the critical role of drone technology and air defense systems in contemporary geopolitical conflicts, demanding increased attention to defense strategies and international arms control.",
+            "references": [
+              "https://reddit.com/r/worldnews/comments/1s74eze/zelenskyy_says_10_drone_factories_have_been_built/",
+              "https://reddit.com/r/worldnews/comments/1s378ik/a_russian_aviation_blogger_was_killed_in_a_fatal/",
+              "https://reddit.com/r/worldnews/comments/1s37lep/ukraines_air_defense_downs_97_of_russian_kamikaze/"
+            ]
+          },
+          {
+            "rank": 2,
+            "title": "Iran's strategic control over Strait of Hormuz",
+            "description": "There's a clear pattern of discussion around Iran's assertiveness in managing access to the Strait of Hormuz, involving multiple nations and political figures. The community is focused on Iran's diplomatic maneuvers, with Trump's statements often framing these events as strategic plays, creating a dynamic around regional power and global trade routes. This indicates a heightened awareness of the Strait's geopolitical significance and potential for economic disruption.",
+            "key_entities": {
+              "companies": [],
+              "products": [],
+              "people": [
+                "Trump",
+                "Hormuz"
+              ]
+            },
+            "sentiment": "mixed",
+            "importance": "This trend underscores the critical importance of the Strait of Hormuz as a global chokepoint and the increasing influence Iran wields over international energy and trade flows.",
+            "references": [
+              "https://reddit.com/r/worldnews/comments/1s478vp/iran_allows_spanish_ships_to_use_the_strait_of/",
+              "https://reddit.com/r/worldnews/comments/1s4zrca/trump_extends_deadline_for_iran_to_open_strait_of/",
+              "https://reddit.com/r/worldnews/comments/1s4tl91/friendly_nations_only_iran_allows_india_russia/"
+            ]
+          },
+          {
+            "rank": 3,
+            "title": "Trump's aggressive stance on Iran war and peace",
+            "description": "Discussions consistently revolve around Donald Trump's assertive rhetoric and policy pronouncements regarding Iran, particularly in the context of an ongoing war and potential peace deals. The community is reacting to Trump's threats of intensified action and his demands for Iran to negotiate, indicating a strong focus on his foreign policy approach and its implications. This signals a significant segment of the r/worldnews community is closely monitoring Trump's direct involvement in international relations and the potential consequences for global stability.",
+            "key_entities": {
+              "companies": [],
+              "products": [],
+              "people": [
+                "Trump",
+                "Donald Trump"
+              ]
+            },
+            "sentiment": "negative",
+            "importance": "This trend highlights the significant impact of Donald Trump's foreign policy pronouncements on global affairs and the potential for his assertive diplomacy to escalate or de-escalate international conflicts.",
+            "references": [
+              "https://reddit.com/r/worldnews/comments/1s3d18k/trump_confirms_saudi_crown_prince_is_pushing_him/",
+              "https://reddit.com/r/worldnews/comments/1s3kzye/trump_to_hit_iran_harder_if_tehran_does_not/",
+              "https://reddit.com/r/worldnews/comments/1s4cxpr/donald_trump_will_unleash_hell_if_iran_doesnt/"
+            ]
+          }
+        ],
+        "week_number": 13,
+        "week_label": "Mar 25 – Mar 29, 2026",
+        "post_count": 147,
+        "clusters_found": 5,
+        "noise_posts": 44,
+        "cluster_stats": [
+          {
+            "cluster_id": 1,
+            "importance_score": 4478.05,
+            "post_count": 16,
+            "avg_score": 8745.4,
+            "avg_comments": 289.6,
+            "avg_upvote_ratio": 0.923
+          },
+          {
+            "cluster_id": 2,
+            "importance_score": 2964.57,
+            "post_count": 12,
+            "avg_score": 5652.5,
+            "avg_comments": 398.7,
+            "avg_upvote_ratio": 0.936
+          },
+          {
+            "cluster_id": 4,
+            "importance_score": 2179.31,
+            "post_count": 40,
+            "avg_score": 4005.9,
+            "avg_comments": 530.9,
+            "avg_upvote_ratio": 0.853
+          },
+          {
+            "cluster_id": 0,
+            "importance_score": 804.62,
+            "post_count": 13,
+            "avg_score": 1430.7,
+            "avg_comments": 244.5,
+            "avg_upvote_ratio": 0.797
+          },
+          {
+            "cluster_id": 3,
+            "importance_score": 653.74,
+            "post_count": 22,
+            "avg_score": 1123.3,
+            "avg_comments": 254.9,
+            "avg_upvote_ratio": 0.781
+          }
+        ]
+      },
+      {
+        "niche": "worldnews",
+        "trends": [
+          {
+            "rank": 1,
+            "title": "Escalating Iran-US Tensions and Global Diplomatic Maneuvers",
+            "description": "A significant pattern of escalating tensions between Iran and the US is emerging, driven by threats and military actions. Discussions revolve around potential US military engagement, Iran's defiance, and international efforts to de-escalate or mediate. This signals a highly volatile geopolitical situation with broad implications for regional stability and global trade.",
+            "key_entities": {
+              "companies": [],
+              "products": [],
+              "people": [
+                "Trump",
+                "Macron",
+                "Zelensky"
+              ]
+            },
+            "sentiment": "mixed",
+            "importance": "This trend highlights the immediate risk of wider conflict and the complex international response to a major geopolitical crisis.",
+            "references": [
+              "https://reddit.com/r/worldnews/comments/1sctgp9/us_forces_rescue_second_crew_member_from_f15/",
+              "https://reddit.com/r/worldnews/comments/1sbcuzv/us_fighter_jet_shot_down_in_iran_search_underway/",
+              "https://reddit.com/r/worldnews/comments/1sbmogx/iran_rejects_48hour_us_ceasefire_proposal_iranian/"
+            ]
+          },
+          {
+            "rank": 2,
+            "title": "Strait of Hormuz as a Geopolitical Flashpoint",
+            "description": "The Strait of Hormuz is repeatedly discussed as a critical choke point and a focal point for international diplomacy and potential conflict. Users are discussing various proposals and actions related to its reopening, highlighting its vital role in global trade and the complex relationships between Iran, the US, and other major powers. This indicates a growing concern about supply chain security and the potential for maritime conflict.",
+            "key_entities": {
+              "companies": [],
+              "products": [],
+              "people": [
+                "Trump",
+                "Macron"
+              ]
+            },
+            "sentiment": "mixed",
+            "importance": "The recurring focus on the Strait of Hormuz underscores its strategic importance and the potential for disruptions to global energy and trade.",
+            "references": [
+              "https://reddit.com/r/worldnews/comments/1s9stvv/iran_says_it_will_not_reopen_strait_of_hormuz/",
+              "https://reddit.com/r/worldnews/comments/1saeu24/macron_says_it_is_unrealistic_to_open_hormuz/",
+              "https://reddit.com/r/worldnews/comments/1sabtk3/uk_gathers_more_than_30_countries_to_plot_ways_of/"
+            ]
+          },
+          {
+            "rank": 3,
+            "title": "Trump's Assertive Foreign Policy and Shifting Alliances",
+            "description": "There's a clear pattern of discussion around President Trump's aggressive rhetoric and actions concerning Iran and his approach to international alliances. Users are engaging with his strong pronouncements, warnings to allies, and suggestions of direct intervention, alongside criticisms from other world leaders. This reflects community interest in his impact on US foreign policy and its implications for global cooperation and perceived US commitment.",
+            "key_entities": {
+              "companies": [
+                "Trump"
+              ],
+              "products": [],
+              "people": [
+                "Trump",
+                "Macron"
+              ]
+            },
+            "sentiment": "mixed",
+            "importance": "This trend highlights the significant impact of one leader's assertive foreign policy on international relations and the evolving dynamics of global partnerships.",
+            "references": [
+              "https://reddit.com/r/worldnews/comments/1sd2at6/trump_to_iran_open_the_fuin_strait_or_face/",
+              "https://reddit.com/r/worldnews/comments/1s8lnr7/trump_warns_uk_us_wont_be_there_to_help_you/",
+              "https://reddit.com/r/worldnews/comments/1sak22t/be_serious_dont_speak_every_day_macron_criticises/"
+            ]
+          }
+        ],
+        "week_number": 14,
+        "week_label": "Mar 30 – Apr 05, 2026",
+        "post_count": 197,
+        "clusters_found": 4,
+        "noise_posts": 27,
+        "cluster_stats": [
+          {
+            "cluster_id": 3,
+            "importance_score": 5588.9,
+            "post_count": 19,
+            "avg_score": 10549.9,
+            "avg_comments": 984.1,
+            "avg_upvote_ratio": 0.935
+          },
+          {
+            "cluster_id": 1,
+            "importance_score": 3150.47,
+            "post_count": 55,
+            "avg_score": 5870.5,
+            "avg_comments": 658.9,
+            "avg_upvote_ratio": 0.878
+          },
+          {
+            "cluster_id": 0,
+            "importance_score": 2746.54,
+            "post_count": 60,
+            "avg_score": 5053.8,
+            "avg_comments": 674.6,
+            "avg_upvote_ratio": 0.863
+          },
+          {
+            "cluster_id": 2,
+            "importance_score": 2718.98,
+            "post_count": 36,
+            "avg_score": 5179.9,
+            "avg_comments": 370.1,
+            "avg_upvote_ratio": 0.9
+          }
+        ]
+      },
+      {
+        "niche": "worldnews",
+        "trends": [
+          {
+            "rank": 1,
+            "title": "Trump's Iran policy drives global tensions and brinkmanship",
+            "description": "A significant pattern emerges around Donald Trump's aggressive rhetoric and actions concerning Iran, highlighting a high-stakes geopolitical standoff. The community is intensely discussing potential military actions, economic blockades, and Iran's defensive measures like human shields, signaling deep concern and anticipation of escalating conflict. This reflects a prevailing sentiment that Trump's approach is a primary driver of global instability, creating an atmosphere of apprehension about imminent international crises.",
+            "key_entities": {
+              "companies": [
+                "NATO",
+                "CNN",
+                "Trump"
+              ],
+              "products": [],
+              "people": [
+                "Trump",
+                "Pope Leo XIV",
+                "Putin",
+                "Zelenskyy"
+              ]
+            },
+            "sentiment": "mixed",
+            "importance": "This trend underscores the perception of Donald Trump's foreign policy as a major destabilizing force on the global stage, with potentially severe consequences for international peace.",
+            "references": [
+              "https://reddit.com/r/worldnews/comments/1sev0hb/trump_says_a_whole_civilization_will_die_tonight/",
+              "https://reddit.com/r/worldnews/comments/1sed31k/trump_every_power_plant_in_iran_will_be_out_of/",
+              "https://reddit.com/r/worldnews/comments/1sjjx5u/president_trump_announces_us_navy_to_detain/"
+            ]
+          },
+          {
+            "rank": 2,
+            "title": "Hungary election draws US political interest and accusations",
+            "description": "The recent Hungarian election has become a focal point for discussions involving US political figures and accusations of foreign interference. Users are repeatedly discussing JD Vance's involvement and his rhetoric regarding the EU's role in the election, alongside Donald Trump's support for Viktor Orbán. This indicates a community grappling with the intersection of national elections, international influence, and partisan political maneuvering, revealing a complex interplay of domestic US politics affecting foreign affairs.",
+            "key_entities": {
+              "companies": [],
+              "products": [],
+              "people": [
+                "Viktor Orbán",
+                "JD Vance",
+                "Donald Trump"
+              ]
+            },
+            "sentiment": "mixed",
+            "importance": "This trend highlights the growing visibility of US political figures in foreign elections and the accompanying international scrutiny and accusations of meddling.",
+            "references": [
+              "https://reddit.com/r/worldnews/comments/1sensp2/jd_vance_due_in_hungary_to_back_orbans_reelection/",
+              "https://reddit.com/r/worldnews/comments/1sf9kqk/jd_vance_accuses_eu_of_interference_as_he_visits/",
+              "https://reddit.com/r/worldnews/comments/1si5j6p/us_president_donald_trump_sweetens_proorban/"
+            ]
+          },
+          {
+            "rank": 3,
+            "title": "Strait of Hormuz as a flashpoint for international conflict",
+            "description": "The Strait of Hormuz is repeatedly appearing as a critical chokepoint and a major source of international friction, particularly concerning Iran and US naval activity. Discussions revolve around potential blockades, mine clearance, and naval transits, signaling a palpable tension and fear of direct confrontation in this vital waterway. This recurrent focus suggests that the Strait of Hormuz is perceived as a highly volatile area where any incident could rapidly escalate into a wider conflict, drawing in multiple global actors.",
+            "key_entities": {
+              "companies": [
+                "U.S. Navy",
+                "CENTCOM",
+                "NATO"
+              ],
+              "products": [],
+              "people": [
+                "Hormuz"
+              ]
+            },
+            "sentiment": "mixed",
+            "importance": "The recurring focus on the Strait of Hormuz signifies its critical importance as a potential trigger for global conflict due to its strategic geopolitical position.",
+            "references": [
+              "https://reddit.com/r/worldnews/comments/1sjjx5u/president_trump_announces_us_navy_to_detain/",
+              "https://reddit.com/r/worldnews/comments/1sdm8gi/iran_allows_15_ships_through_strait_of_hormuz/",
+              "https://reddit.com/r/worldnews/comments/1sikvuy/us_warships_cross_strait_of_hormuz_for_first_time/"
+            ]
+          }
+        ],
+        "week_number": 15,
+        "week_label": "Apr 06 – Apr 12, 2026",
+        "post_count": 270,
+        "clusters_found": 8,
+        "noise_posts": 41,
+        "cluster_stats": [
+          {
+            "cluster_id": 4,
+            "importance_score": 4794.19,
+            "post_count": 36,
+            "avg_score": 9100.3,
+            "avg_comments": 753.0,
+            "avg_upvote_ratio": 0.908
+          },
+          {
+            "cluster_id": 6,
+            "importance_score": 4361.3,
+            "post_count": 33,
+            "avg_score": 8096.1,
+            "avg_comments": 983.5,
+            "avg_upvote_ratio": 0.91
+          },
+          {
+            "cluster_id": 0,
+            "importance_score": 4342.48,
+            "post_count": 14,
+            "avg_score": 8368.9,
+            "avg_comments": 465.6,
+            "avg_upvote_ratio": 0.917
+          },
+          {
+            "cluster_id": 7,
+            "importance_score": 1744.56,
+            "post_count": 36,
+            "avg_score": 3148.7,
+            "avg_comments": 509.9,
+            "avg_upvote_ratio": 0.862
+          },
+          {
+            "cluster_id": 2,
+            "importance_score": 1542.5,
+            "post_count": 30,
+            "avg_score": 2938.9,
+            "avg_comments": 186.2,
+            "avg_upvote_ratio": 0.86
+          },
+          {
+            "cluster_id": 5,
+            "importance_score": 1478.39,
+            "post_count": 38,
+            "avg_score": 2779.3,
+            "avg_comments": 242.3,
+            "avg_upvote_ratio": 0.802
+          },
+          {
+            "cluster_id": 3,
+            "importance_score": 1205.0,
+            "post_count": 24,
+            "avg_score": 2315.0,
+            "avg_comments": 97.2,
+            "avg_upvote_ratio": 0.917
+          },
+          {
+            "cluster_id": 1,
+            "importance_score": 565.06,
+            "post_count": 18,
+            "avg_score": 1026.6,
+            "avg_comments": 119.1,
+            "avg_upvote_ratio": 0.803
+          }
+        ]
+      },
+      {
+        "niche": "worldnews",
+        "trends": [
+          {
+            "rank": 1,
+            "title": "Pope Leo XIV's Growing Diplomatic Influence and Trump's Opposition",
+            "description": "A significant trend emerges around Pope Leo XIV's efforts to promote peace, particularly concerning Iran, which is met with vocal opposition from Donald Trump. The community is actively discussing this dynamic, suggesting a heightened interest in the Pope's role as a geopolitical mediator and Trump's continued influence in international relations. This signals a potential shift in global discourse where religious leadership is increasingly intersecting with political rivalries.",
+            "key_entities": {
+              "companies": [],
+              "products": [],
+              "people": [
+                "Pope Leo XIV",
+                "Trump"
+              ]
+            },
+            "sentiment": "mixed",
+            "importance": "This trend highlights the evolving role of religious figures in international diplomacy and the ongoing impact of Trump's political stance on global events.",
+            "references": [
+              "https://reddit.com/r/worldnews/comments/1sm8vmt/pope_leo_attacked_again_by_trump_says_world_needs/",
+              "https://reddit.com/r/worldnews/comments/1sjwtje/trump_lambasts_pope_leo_xiv_extending_feud_over/",
+              "https://reddit.com/r/worldnews/comments/1soschf/italys_meloni_breaks_with_trump_over_war_in_iran/"
+            ]
+          },
+          {
+            "rank": 2,
+            "title": "Ukraine's Financial Stability and Russian Asset Realignment",
+            "description": "Discussions are intensely focused on the financial support for Ukraine, particularly through the use of frozen Russian assets and ongoing sanctions debates. The community is engaged with the complexities of international finance, asset seizure, and the strategic implications of sanctions for both Russia and Ukraine. This signals a growing understanding and concern regarding the economic warfare aspect of the conflict and its potential to reshape global financial flows.",
+            "key_entities": {
+              "companies": [],
+              "products": [],
+              "people": [
+                "Zelensky",
+                "Zelenskyy"
+              ]
+            },
+            "sentiment": "positive",
+            "importance": "This trend underscores the critical role of financial mechanisms and international cooperation in sustaining Ukraine and influencing the geopolitical landscape.",
+            "references": [
+              "https://reddit.com/r/worldnews/comments/1snebny/uk_transfers_about_1_billion_dollars_in_frozen/",
+              "https://reddit.com/r/worldnews/comments/1sopm8r/us_lifts_sanctions_on_russian_oil_despite_earlier/",
+              "https://reddit.com/r/worldnews/comments/1skydwh/canada_amends_laws_to_seize_profits_from_frozen/"
+            ]
+          },
+          {
+            "rank": 3,
+            "title": "Hungarian Political Shift Away from Orbán and Russian Influence",
+            "description": "A strong pattern is emerging around the significant political upheaval in Hungary, marked by the electoral defeat of Viktor Orbán and the rise of Péter Magyar. The community is actively discussing the implications of this shift for Hungary's relationship with the EU and Russia, particularly concerning energy ties. This signals a potential recalibration of regional alliances and a weakening of Russian influence in Central Europe.",
+            "key_entities": {
+              "companies": [],
+              "products": [],
+              "people": [
+                "Péter Magyar",
+                "Orbán"
+              ]
+            },
+            "sentiment": "positive",
+            "importance": "This trend indicates a notable geopolitical shift in Central Europe, potentially altering the balance of power and influence within the European Union.",
+            "references": [
+              "https://reddit.com/r/worldnews/comments/1ska0n9/hungarys_incoming_pm_péter_magyar_demands_orbáns/",
+              "https://reddit.com/r/worldnews/comments/1slc5jv/we_were_never_friends_kremlin_plays_down_loss_of/",
+              "https://reddit.com/r/worldnews/comments/1sk6aus/hungarys_magyar_topples_orban_in_blow_to_russian/"
+            ]
+          }
+        ],
+        "week_number": 16,
+        "week_label": "Apr 13 – Apr 19, 2026",
+        "post_count": 553,
+        "clusters_found": 15,
+        "noise_posts": 65,
+        "cluster_stats": [
+          {
+            "cluster_id": 0,
+            "importance_score": 3400.07,
+            "post_count": 17,
+            "avg_score": 6618.2,
+            "avg_comments": 247.0,
+            "avg_upvote_ratio": 0.844
+          },
+          {
+            "cluster_id": 5,
+            "importance_score": 2880.03,
+            "post_count": 32,
+            "avg_score": 5486.2,
+            "avg_comments": 394.2,
+            "avg_upvote_ratio": 0.932
+          },
+          {
+            "cluster_id": 4,
+            "importance_score": 2706.27,
+            "post_count": 23,
+            "avg_score": 5289.1,
+            "avg_comments": 142.9,
+            "avg_upvote_ratio": 0.941
+          },
+          {
+            "cluster_id": 10,
+            "importance_score": 1111.21,
+            "post_count": 70,
+            "avg_score": 2032.7,
+            "avg_comments": 255.4,
+            "avg_upvote_ratio": 0.912
+          },
+          {
+            "cluster_id": 11,
+            "importance_score": 1107.36,
+            "post_count": 46,
+            "avg_score": 2032.0,
+            "avg_comments": 248.5,
+            "avg_upvote_ratio": 0.841
+          },
+          {
+            "cluster_id": 14,
+            "importance_score": 1001.29,
+            "post_count": 14,
+            "avg_score": 1879.4,
+            "avg_comments": 147.0,
+            "avg_upvote_ratio": 0.876
+          },
+          {
+            "cluster_id": 6,
+            "importance_score": 995.36,
+            "post_count": 52,
+            "avg_score": 1852.2,
+            "avg_comments": 176.7,
+            "avg_upvote_ratio": 0.812
+          },
+          {
+            "cluster_id": 12,
+            "importance_score": 959.9,
+            "post_count": 19,
+            "avg_score": 1681.4,
+            "avg_comments": 335.7,
+            "avg_upvote_ratio": 0.925
+          },
+          {
+            "cluster_id": 3,
+            "importance_score": 697.2,
+            "post_count": 72,
+            "avg_score": 1307.9,
+            "avg_comments": 82.6,
+            "avg_upvote_ratio": 0.923
+          },
+          {
+            "cluster_id": 9,
+            "importance_score": 678.56,
+            "post_count": 13,
+            "avg_score": 1252.5,
+            "avg_comments": 114.3,
+            "avg_upvote_ratio": 0.9
+          },
+          {
+            "cluster_id": 7,
+            "importance_score": 604.93,
+            "post_count": 23,
+            "avg_score": 966.4,
+            "avg_comments": 353.8,
+            "avg_upvote_ratio": 0.779
+          },
+          {
+            "cluster_id": 13,
+            "importance_score": 538.23,
+            "post_count": 21,
+            "avg_score": 998.3,
+            "avg_comments": 69.8,
+            "avg_upvote_ratio": 0.906
+          },
+          {
+            "cluster_id": 2,
+            "importance_score": 468.56,
+            "post_count": 60,
+            "avg_score": 824.6,
+            "avg_comments": 130.2,
+            "avg_upvote_ratio": 0.862
+          },
+          {
+            "cluster_id": 8,
+            "importance_score": 319.93,
+            "post_count": 13,
+            "avg_score": 541.5,
+            "avg_comments": 104.2,
+            "avg_upvote_ratio": 0.895
+          },
+          {
+            "cluster_id": 1,
+            "importance_score": 199.96,
+            "post_count": 13,
+            "avg_score": 350.9,
+            "avg_comments": 23.6,
+            "avg_upvote_ratio": 0.871
+          }
+        ]
+      },
+      {
+        "niche": "worldnews",
+        "trends": [
+          {
+            "rank": 1,
+            "title": "Israel-Lebanon Tensions Escalate with Vandalism and Civilian Casualties",
+            "description": "A pattern of rising conflict and negative sentiment is emerging between Israel and Lebanon, marked by incidents involving Israeli soldiers and Lebanese religious sites, as well as civilian deaths and territorial disputes. The community is discussing these events due to the sensitive nature of religious vandalism and the ongoing geopolitical friction. This signals a potentially worsening humanitarian and diplomatic situation in the region.",
+            "key_entities": {
+              "companies": [],
+              "products": [],
+              "people": [
+                "Jesus"
+              ]
+            },
+            "sentiment": "negative",
+            "importance": "This trend highlights escalating regional instability and potential for wider conflict, impacting diplomatic relations and civilian lives.",
+            "references": [
+              "https://reddit.com/r/worldnews/comments/1srqklk/idf_jails_soldiers_for_damaging_jesus_statue_in/",
+              "https://reddit.com/r/worldnews/comments/1ss654m/macron_urges_israel_to_drop_territorial_ambitions/",
+              "https://reddit.com/r/worldnews/comments/1st127h/israeli_strike_kills_journalist_after_ongoing/"
+            ]
+          },
+          {
+            "rank": 2,
+            "title": "Ukraine's Drone Warfare and Russia's Vulnerable Infrastructure",
+            "description": "There is a clear pattern of Ukraine employing advanced drone technology to strike Russian infrastructure, particularly oil facilities, while also developing its own defense ecosystems. The community is highly engaged with these developments due to the significant impact on the war effort and the global economy. This signals Ukraine's increasing technological prowess in asymmetric warfare and Russia's growing vulnerability.",
+            "key_entities": {
+              "companies": [
+                "SBU"
+              ],
+              "products": [
+                "drone"
+              ],
+              "people": [
+                "Zelensky",
+                "Putin"
+              ]
+            },
+            "sentiment": "positive",
+            "importance": "This trend demonstrates the evolving nature of modern warfare and Ukraine's innovative response to the invasion, with significant implications for Russian strategic capabilities.",
+            "references": [
+              "https://reddit.com/r/worldnews/comments/1sq9t9l/ukrainian_drones_reportedly_strike_oil_refinery/",
+              "https://reddit.com/r/worldnews/comments/1srn0z6/ukrainian_drones_hit_key_russian_oil_hub_in/",
+              "https://reddit.com/r/worldnews/comments/1srgwqp/hackers_breach_russian_ministry_call_reveal_china/"
+            ]
+          },
+          {
+            "rank": 3,
+            "title": "UK's Generational Smoking Ban Sparks Social Debate",
+            "description": "A significant pattern is emerging around the UK's controversial decision to implement a lifetime smoking ban for individuals born after 2008, coupled with discussions on national defense willingness and geopolitical positioning. The community is actively debating these policies due to their broad societal impact and potential implications for future generations. This signals a shift in public health policy and potential societal divisions regarding individual freedoms and national priorities.",
+            "key_entities": {
+              "companies": [],
+              "products": [],
+              "people": [
+                "Trump"
+              ]
+            },
+            "sentiment": "mixed",
+            "importance": "This trend highlights a major public health intervention with long-term societal implications and touches upon broader discussions about national identity and international relations.",
+            "references": [
+              "https://reddit.com/r/worldnews/comments/1ssetij/uk_moves_to_ban_smoking_for_everyone_born_after/",
+              "https://reddit.com/r/worldnews/comments/1ssobuc/half_of_young_brits_say_they_would_never_fight/",
+              "https://reddit.com/r/worldnews/comments/1su94uz/trump_says_he_will_probably_put_a_big_tariff_on/"
+            ]
+          }
+        ],
+        "week_number": 17,
+        "week_label": "Apr 20 – Apr 24, 2026",
+        "post_count": 351,
+        "clusters_found": 11,
+        "noise_posts": 60,
+        "cluster_stats": [
+          {
+            "cluster_id": 0,
+            "importance_score": 1461.65,
+            "post_count": 19,
+            "avg_score": 2692.3,
+            "avg_comments": 335.4,
+            "avg_upvote_ratio": 0.743
+          },
+          {
+            "cluster_id": 8,
+            "importance_score": 1121.82,
+            "post_count": 48,
+            "avg_score": 2139.7,
+            "avg_comments": 113.1,
+            "avg_upvote_ratio": 0.901
+          },
+          {
+            "cluster_id": 1,
+            "importance_score": 1001.85,
+            "post_count": 10,
+            "avg_score": 1746.9,
+            "avg_comments": 369.6,
+            "avg_upvote_ratio": 0.876
+          },
+          {
+            "cluster_id": 10,
+            "importance_score": 889.04,
+            "post_count": 31,
+            "avg_score": 1679.5,
+            "avg_comments": 103.7,
+            "avg_upvote_ratio": 0.907
+          },
+          {
+            "cluster_id": 2,
+            "importance_score": 811.75,
+            "post_count": 80,
+            "avg_score": 1474.4,
+            "avg_comments": 190.8,
+            "avg_upvote_ratio": 0.865
+          },
+          {
+            "cluster_id": 5,
+            "importance_score": 780.28,
+            "post_count": 20,
+            "avg_score": 1472.8,
+            "avg_comments": 86.4,
+            "avg_upvote_ratio": 0.896
+          },
+          {
+            "cluster_id": 4,
+            "importance_score": 508.79,
+            "post_count": 19,
+            "avg_score": 937.3,
+            "avg_comments": 75.4,
+            "avg_upvote_ratio": 0.877
+          },
+          {
+            "cluster_id": 3,
+            "importance_score": 494.67,
+            "post_count": 10,
+            "avg_score": 903.3,
+            "avg_comments": 86.2,
+            "avg_upvote_ratio": 0.858
+          },
+          {
+            "cluster_id": 7,
+            "importance_score": 428.52,
+            "post_count": 25,
+            "avg_score": 793.3,
+            "avg_comments": 49.1,
+            "avg_upvote_ratio": 0.858
+          },
+          {
+            "cluster_id": 9,
+            "importance_score": 374.89,
+            "post_count": 13,
+            "avg_score": 686.2,
+            "avg_comments": 47.6,
+            "avg_upvote_ratio": 0.875
+          },
+          {
+            "cluster_id": 6,
+            "importance_score": 344.24,
+            "post_count": 16,
+            "avg_score": 639.8,
+            "avg_comments": 23.0,
+            "avg_upvote_ratio": 0.873
+          }
+        ]
+      }
+    ],
+    "movies": [
+      {
+        "niche": "movies",
+        "trends": [
+          {
+            "rank": 1,
+            "title": "The Poster Reveal Frenzy: Building Anticipation for New Films",
+            "description": "A significant uptick in discussion revolves around the release and analysis of new movie posters, indicating a community actively seeking early visual cues and creative direction for upcoming films. Users are dissecting artwork, taglines, and stylistic choices to gauge the tone and potential success of these projects, signaling a heightened level of engagement with pre-release marketing materials. This pattern suggests that for many, the poster is a critical first impression that drives initial excitement and speculation.",
+            "key_entities": {
+              "companies": [],
+              "products": [
+                "Scary Movie",
+                "The Super Mario Galaxy Movie",
+                "The End of Oak Street",
+                "ROSEBUSH PRUNING",
+                "Hokum",
+                "Forgotten Island",
+                "Faces of Death (2026)",
+                "Ballistic"
+              ],
+              "people": [
+                "Karim Aïnouz",
+                "Efthymis Filippou",
+                "Riley Keough",
+                "Adam Scott",
+                "Lena Heady"
+              ]
+            },
+            "sentiment": "mostly positive/excited",
+            "importance": "This trend highlights how visual marketing, particularly movie posters, is a primary driver of audience interest and discussion before a film's release.",
+            "references": [
+              "https://reddit.com/r/movies/comments/1s3eura/new_poster_for_scary_movie/",
+              "https://reddit.com/r/movies/comments/1s46xku/new_poster_for_the_super_mario_galaxy_movie/",
+              "https://reddit.com/r/movies/comments/1s4bg6p/poster_for_the_end_of_oak_street/"
+            ]
+          },
+          {
+            "rank": 2,
+            "title": "Nostalgic Reappraisals and Surprising Discoveries in Film",
+            "description": "There's a recurring theme of revisiting older films, often with a critical lens or a desire to re-evaluate their impact and quality, suggesting a community seeking deeper understanding of cinematic history. Users are expressing surprise at how certain movies hold up or defy initial expectations, sparking conversations about genre evolution and filmmaking techniques. This indicates a sustained interest in the legacy of film and an appreciation for retrospective analysis and personal cinematic journeys.",
+            "key_entities": {
+              "companies": [],
+              "products": [
+                "The Mummy",
+                "RoboCop (1987)",
+                "Fargo"
+              ],
+              "people": [
+                "John Hannah",
+                "Rachel Weisz",
+                "William H. Macy"
+              ]
+            },
+            "sentiment": "mixed",
+            "importance": "This trend underscores the enduring relevance of classic films and the continuous re-evaluation of their place in cinematic culture.",
+            "references": [
+              "https://reddit.com/r/movies/comments/1s5fiq4/the_mummy_john_hannah_returning_as_rachel_weiszs/",
+              "https://reddit.com/r/movies/comments/1s54jnf/robocop_1987_is_nothing_like_i_thought_it_would_be/",
+              "https://reddit.com/r/movies/comments/1s3n325/as_fargo_turns_30_william_h_macy_shares/"
+            ]
+          }
+        ],
+        "week_number": 13,
+        "week_label": "Mar 25 – Mar 29, 2026",
+        "post_count": 139,
+        "clusters_found": 2,
+        "noise_posts": 32,
+        "cluster_stats": [
+          {
+            "cluster_id": 1,
+            "importance_score": 1519.24,
+            "post_count": 44,
+            "avg_score": 2781.5,
+            "avg_comments": 372.8,
+            "avg_upvote_ratio": 0.833
+          },
+          {
+            "cluster_id": 0,
+            "importance_score": 413.24,
+            "post_count": 63,
+            "avg_score": 709.5,
+            "avg_comments": 154.4,
+            "avg_upvote_ratio": 0.609
+          }
+        ]
+      },
+      {
+        "niche": "movies",
+        "trends": [
+          {
+            "rank": 1,
+            "title": "Anticipation Surrounds Upcoming Animated & Game Adaptations",
+            "description": "There's significant excitement building around official trailers and posters for upcoming animated films, particularly those based on popular video games. The community is eagerly anticipating these releases, likely due to nostalgia and the success of recent high-profile adaptations. This signals a strong market demand for IP-driven entertainment and a positive reception to early marketing materials.",
+            "key_entities": {
+              "companies": [
+                "A24"
+              ],
+              "products": [
+                "Super Mario Galaxy movie",
+                "Backrooms",
+                "Supergirl",
+                "Masters of The Universe",
+                "Highlander",
+                "Tom and Jerry: The Forbidden Compass"
+              ],
+              "people": [
+                "Kane Parsons"
+              ]
+            },
+            "sentiment": "positive",
+            "importance": "This trend highlights the growing mainstream appeal and commercial viability of animated and game-based film properties.",
+            "references": [
+              "https://reddit.com/r/movies/comments/1s7px5o/new_posters_for_kane_parsons_backrooms/",
+              "https://reddit.com/r/movies/comments/1s8r9wo/new_poster_for_supergirl/",
+              "https://reddit.com/r/movies/comments/1s8ri5a/backrooms_official_trailer_a24/"
+            ]
+          },
+          {
+            "rank": 2,
+            "title": "Nostalgic Discussions of Classic Film Scenes and Directorial Styles",
+            "description": "Reddit users are actively reminiscing about and dissecting memorable scenes from classic and influential films, often focusing on specific directorial choices and performances. This deep dive into cinematic history suggests a continued appreciation for well-crafted storytelling and iconic moments, fostering a sense of shared cultural understanding. The community engages with these films to celebrate their artistic merit and connect over foundational cinematic experiences.",
+            "key_entities": {
+              "companies": [
+                "Schindler's List"
+              ],
+              "products": [
+                "The Prince of Egypt",
+                "Kiss Kiss Bang Bang",
+                "Peggy Sue Got Married",
+                "Death to Smoochy",
+                "The Last Castle",
+                "The Way Way Back",
+                "The Last Temptation of Christ"
+              ],
+              "people": [
+                "Martin Scorsese",
+                "Francis Ford Coppola",
+                "Danny DeVito",
+                "Shane Black",
+                "Brenda Chapman",
+                "Steve Hickner",
+                "Simon Wells"
+              ]
+            },
+            "sentiment": "positive",
+            "importance": "This trend underscores the enduring legacy of classic films and the desire to revisit and analyze their artistic impact.",
+            "references": [
+              "https://reddit.com/r/movies/comments/1s9usp4/the_prince_of_egypt_1998_brenda_chapman_steve/",
+              "https://reddit.com/r/movies/comments/1sa2vyq/kiss_kiss_bang_bang_2005_who_taught_you_math/",
+              "https://reddit.com/r/movies/comments/1sbe3kj/peggy_sue_got_married_1986_dir_by_francis_ford/"
+            ]
+          },
+          {
+            "rank": 3,
+            "title": "Excitement for Independent Film and Director AMAs",
+            "description": "There's a strong buzz surrounding emerging independent films and direct engagement with their creators through AMA sessions. The community is keen to discover new talent and discuss niche projects, indicating a healthy appetite for diverse cinematic voices beyond mainstream blockbusters. This trend reflects a desire for authentic connection with filmmakers and an appreciation for auteur-driven cinema.",
+            "key_entities": {
+              "companies": [
+                "A24",
+                "AMA"
+              ],
+              "products": [
+                "Over Your Dead Body",
+                "The Drama"
+              ],
+              "people": [
+                "Jorma Taccone",
+                "Armie Hammer",
+                "Chris Hemsworth",
+                "Alec Baldwin"
+              ]
+            },
+            "sentiment": "positive",
+            "importance": "This trend highlights the growing influence of independent cinema and the value placed on direct interaction with filmmakers.",
+            "references": [
+              "https://reddit.com/r/movies/comments/1s9i9xc/amaqa_announcement_armie_hammer_friday_410_at_230/",
+              "https://reddit.com/r/movies/comments/1sajvvo/new_poster_for_jorma_taccones_over_your_dead_body/",
+              "https://reddit.com/r/movies/comments/1s9z49l/hi_reddit_im_jorma_taccone_from_the_lonely_island/"
+            ]
+          }
+        ],
+        "week_number": 14,
+        "week_label": "Mar 30 – Apr 05, 2026",
+        "post_count": 203,
+        "clusters_found": 5,
+        "noise_posts": 50,
+        "cluster_stats": [
+          {
+            "cluster_id": 0,
+            "importance_score": 1706.1,
+            "post_count": 50,
+            "avg_score": 3148.1,
+            "avg_comments": 386.2,
+            "avg_upvote_ratio": 0.808
+          },
+          {
+            "cluster_id": 4,
+            "importance_score": 796.04,
+            "post_count": 11,
+            "avg_score": 1427.1,
+            "avg_comments": 223.5,
+            "avg_upvote_ratio": 0.773
+          },
+          {
+            "cluster_id": 2,
+            "importance_score": 545.2,
+            "post_count": 28,
+            "avg_score": 875.2,
+            "avg_comments": 313.1,
+            "avg_upvote_ratio": 0.684
+          },
+          {
+            "cluster_id": 3,
+            "importance_score": 534.21,
+            "post_count": 47,
+            "avg_score": 781.1,
+            "avg_comments": 435.7,
+            "avg_upvote_ratio": 0.648
+          },
+          {
+            "cluster_id": 1,
+            "importance_score": 464.73,
+            "post_count": 17,
+            "avg_score": 831.4,
+            "avg_comments": 118.5,
+            "avg_upvote_ratio": 0.674
+          }
+        ]
+      },
+      {
+        "niche": "movies",
+        "trends": [
+          {
+            "rank": 1,
+            "title": "Studio Restructuring and Financial Scrutiny Dominates",
+            "description": "Discussions are heavily focused on major studios undergoing significant layoffs and financial reevaluations, indicating a period of industry-wide belt-tightening and strategic shifts. Users are dissecting the implications of these moves on future film output and franchise viability, reflecting concern and keen observation of the business side of Hollywood. This pattern signals a potential consolidation of power or a significant adjustment in how major studios operate and invest in content.",
+            "key_entities": {
+              "companies": [
+                "Disney",
+                "Sony Pictures Entertainment",
+                "Warner Bros",
+                "MGM"
+              ],
+              "products": [],
+              "people": [
+                "Josh D'Amaro",
+                "J.J. Abrams"
+              ]
+            },
+            "sentiment": "mixed",
+            "importance": "This trend highlights a critical juncture for major film studios, signaling potential shifts in content creation and industry stability.",
+            "references": [
+              "https://reddit.com/r/movies/comments/1sgbd7k/disney_to_lay_off_up_to_1000_employees_in_first/",
+              "https://reddit.com/r/movies/comments/1sf0w4y/sony_pictures_entertainment_to_lay_off_hundreds/",
+              "https://reddit.com/r/movies/comments/1sed94g/from_250_million_megadeal_to_empty_offices_the/"
+            ]
+          },
+          {
+            "rank": 2,
+            "title": "Anticipation for Sequels and Anniversary Re-releases",
+            "description": "There's a palpable excitement surrounding official posters and announcements for upcoming sequels and significant anniversary re-releases of beloved films, suggesting a strong audience appetite for familiar franchises and nostalgia. Users are actively engaging with visual marketing materials and discussing the return of established properties to theaters, indicating a desire for both new installments and curated cinematic experiences. This pattern points to the continued strength of established IP and the emotional connection audiences have with cinematic legacies.",
+            "key_entities": {
+              "companies": [
+                "Warner Bros",
+                "Disney",
+                "Sony"
+              ],
+              "products": [
+                "Mortal Kombat II",
+                "The Hunger Games: Sunrise on the Reaping",
+                "Pan's Labyrinth",
+                "Legally Blonde",
+                "The Amazing Digital Circus: The Last Act"
+              ],
+              "people": [
+                "Guillermo Del Toro"
+              ]
+            },
+            "sentiment": "positive",
+            "importance": "This trend underscores the enduring appeal of established film franchises and the power of nostalgia in driving audience engagement.",
+            "references": [
+              "https://reddit.com/r/movies/comments/1sjiei2/new_poster_for_the_hunger_games_sunrise_on_the/",
+              "https://reddit.com/r/movies/comments/1sh5idn/official_poster_for_colony_directed_by_yeon/",
+              "https://reddit.com/r/movies/comments/1sgwwxu/official_poster_for_the_20th_anniversary_of/"
+            ]
+          },
+          {
+            "rank": 3,
+            "title": "Deep Dives into Cinematic Tropes and Realism",
+            "description": "A significant portion of discussions revolves around analyzing the realism (or lack thereof) in popular movie tropes and questioning what has become commonplace to the point of seeming real. Users are reflecting on their viewing experiences, dissecting common plot devices, and debating the believability of cinematic conventions, showcasing a critical and analytical engagement with filmmaking. This trend indicates a sophisticated audience that not only enjoys movies but actively deconstructs their construction and impact on perception.",
+            "key_entities": {
+              "companies": [
+                "Warner Bros"
+              ],
+              "products": [
+                "Fight Club",
+                "The Big Lebowski",
+                "The Matrix"
+              ],
+              "people": [
+                "Christopher Nolan"
+              ]
+            },
+            "sentiment": "mixed",
+            "importance": "This trend highlights a discerning audience that is moving beyond passive consumption to critically evaluate the art and science of filmmaking.",
+            "references": [
+              "https://reddit.com/r/movies/comments/1semjqn/whats_something_that_happens_in_movies_so_much_it/",
+              "https://reddit.com/r/movies/comments/1sjhtmm/popular_movie_dunks_that_everyone_uses_but_are/",
+              "https://reddit.com/r/movies/comments/1silub6/matrix_1999_the_reason_why_the_opening_sequence/"
+            ]
+          }
+        ],
+        "week_number": 15,
+        "week_label": "Apr 06 – Apr 12, 2026",
+        "post_count": 233,
+        "clusters_found": 4,
+        "noise_posts": 75,
+        "cluster_stats": [
+          {
+            "cluster_id": 3,
+            "importance_score": 1329.65,
+            "post_count": 22,
+            "avg_score": 2425.0,
+            "avg_comments": 336.2,
+            "avg_upvote_ratio": 0.813
+          },
+          {
+            "cluster_id": 2,
+            "importance_score": 932.46,
+            "post_count": 20,
+            "avg_score": 1699.0,
+            "avg_comments": 222.8,
+            "avg_upvote_ratio": 0.804
+          },
+          {
+            "cluster_id": 1,
+            "importance_score": 522.54,
+            "post_count": 92,
+            "avg_score": 830.3,
+            "avg_comments": 314.7,
+            "avg_upvote_ratio": 0.649
+          },
+          {
+            "cluster_id": 0,
+            "importance_score": 411.06,
+            "post_count": 24,
+            "avg_score": 726.7,
+            "avg_comments": 105.2,
+            "avg_upvote_ratio": 0.807
+          }
+        ]
+      },
+      {
+        "niche": "movies",
+        "trends": [
+          {
+            "rank": 1,
+            "title": "Industry Consolidation and Hollywood Opposition",
+            "description": "There's a significant pattern of discussion around potential mergers and acquisitions within major Hollywood studios, specifically Paramount and Warner Bros. The community is actively engaging with news of these potential deals, driven by concerns over industry consolidation and its impact on content diversity, as evidenced by widespread support for an open letter from prominent industry figures opposing such moves.",
+            "key_entities": {
+              "companies": [
+                "Paramount",
+                "Warner Bros.",
+                "Warner Bros. Discovery",
+                "Netflix"
+              ],
+              "products": [],
+              "people": [
+                "Joaquin Phoenix",
+                "Ben Stiller",
+                "Kristen Stewart",
+                "Florence Pugh",
+                "Pedro Pascal"
+              ]
+            },
+            "sentiment": "mixed",
+            "importance": "This trend signals a growing concern within the film community about the future landscape of major studio power and the potential impact on creative output.",
+            "references": [
+              "https://reddit.com/r/movies/comments/1skanio/joaquin_phoenix_ben_stiller_kristen_stewart_and/",
+              "https://reddit.com/r/movies/comments/1sljpki/florence_pugh_pedro_pascal_and_more_join_fight_to/",
+              "https://reddit.com/r/movies/comments/1sn3z32/the_paramountwarner_merger_would_leave_us_with_4/"
+            ]
+          },
+          {
+            "rank": 2,
+            "title": "Theatrical Experience Debates and Subscription Value",
+            "description": "Discussions frequently revolve around the value proposition of movie theaters versus streaming subscriptions, including the length of theatrical windows and the proliferation of pre-movie advertising. Reddit users are weighing in on rising subscription costs and the overall effectiveness of theatrical releases in the current market, indicating a community grappling with the evolving ways they consume movies.",
+            "key_entities": {
+              "companies": [
+                "Amazon MGM Studios",
+                "AMC",
+                "Netflix"
+              ],
+              "products": [
+                "AMC Stubs A-List"
+              ],
+              "people": [
+                "Tom Rothman",
+                "Ted Sarandos"
+              ]
+            },
+            "sentiment": "mixed",
+            "importance": "This trend highlights the ongoing tension between traditional exhibition and the dominance of streaming, impacting how studios and consumers approach movie releases.",
+            "references": [
+              "https://reddit.com/r/movies/comments/1sl2fkn/sony_pictures_boss_tom_rothman_urges_theater/",
+              "https://reddit.com/r/movies/comments/1smd61h/amc_stubs_alist_hikes_monthly_fee_again_citing/",
+              "https://reddit.com/r/movies/comments/1slboau/netflixs_ted_sarandos_meets_theater_owners_at/"
+            ]
+          },
+          {
+            "rank": 3,
+            "title": "Anticipation for New Movie Posters and Trailers",
+            "description": "A consistent pattern emerges around the release of official posters and trailers for upcoming movies, generating significant community engagement. Users are actively sharing and discussing visual marketing materials for a diverse range of films, signaling a strong interest in early movie announcements and the visual storytelling that precedes a film's release.",
+            "key_entities": {
+              "companies": [
+                "Netflix",
+                "Angel Studios"
+              ],
+              "products": [
+                "Spider-Man: Brand New Day",
+                "Speed Racer",
+                "Street Fighter",
+                "The Mandalorian and Grogu"
+              ],
+              "people": [
+                "Mikhail Gorbachev",
+                "Margaret Qualley"
+              ]
+            },
+            "sentiment": "positive",
+            "importance": "This trend underscores the power of visual marketing in building buzz and anticipation for upcoming films within the movie fan community.",
+            "references": [
+              "https://reddit.com/r/movies/comments/1skvw8z/official_posters_for_spiderman_brand_new_day/",
+              "https://reddit.com/r/movies/comments/1skkg29/official_imax_poster_for_the_4k_rerelease_of/",
+              "https://reddit.com/r/movies/comments/1sn2i49/official_posters_for_street_fighter/"
+            ]
+          }
+        ],
+        "week_number": 16,
+        "week_label": "Apr 13 – Apr 19, 2026",
+        "post_count": 563,
+        "clusters_found": 14,
+        "noise_posts": 216,
+        "cluster_stats": [
+          {
+            "cluster_id": 5,
+            "importance_score": 1560.02,
+            "post_count": 14,
+            "avg_score": 3017.1,
+            "avg_comments": 121.0,
+            "avg_upvote_ratio": 0.759
+          },
+          {
+            "cluster_id": 7,
+            "importance_score": 1491.12,
+            "post_count": 19,
+            "avg_score": 2750.1,
+            "avg_comments": 341.1,
+            "avg_upvote_ratio": 0.687
+          },
+          {
+            "cluster_id": 2,
+            "importance_score": 1131.98,
+            "post_count": 35,
+            "avg_score": 2089.5,
+            "avg_comments": 241.2,
+            "avg_upvote_ratio": 0.742
+          },
+          {
+            "cluster_id": 1,
+            "importance_score": 320.54,
+            "post_count": 21,
+            "avg_score": 561.1,
+            "avg_comments": 89.2,
+            "avg_upvote_ratio": 0.66
+          },
+          {
+            "cluster_id": 10,
+            "importance_score": 196.67,
+            "post_count": 44,
+            "avg_score": 345.1,
+            "avg_comments": 42.2,
+            "avg_upvote_ratio": 0.572
+          },
+          {
+            "cluster_id": 3,
+            "importance_score": 196.63,
+            "post_count": 10,
+            "avg_score": 312.8,
+            "avg_comments": 84.9,
+            "avg_upvote_ratio": 0.738
+          },
+          {
+            "cluster_id": 13,
+            "importance_score": 173.5,
+            "post_count": 64,
+            "avg_score": 207.3,
+            "avg_comments": 194.9,
+            "avg_upvote_ratio": 0.568
+          },
+          {
+            "cluster_id": 6,
+            "importance_score": 166.31,
+            "post_count": 15,
+            "avg_score": 262.0,
+            "avg_comments": 74.3,
+            "avg_upvote_ratio": 0.651
+          },
+          {
+            "cluster_id": 0,
+            "importance_score": 135.16,
+            "post_count": 32,
+            "avg_score": 222.8,
+            "avg_comments": 41.7,
+            "avg_upvote_ratio": 0.563
+          },
+          {
+            "cluster_id": 4,
+            "importance_score": 95.83,
+            "post_count": 24,
+            "avg_score": 113.0,
+            "avg_comments": 86.5,
+            "avg_upvote_ratio": 0.671
+          },
+          {
+            "cluster_id": 11,
+            "importance_score": 79.75,
+            "post_count": 10,
+            "avg_score": 52.1,
+            "avg_comments": 150.2,
+            "avg_upvote_ratio": 0.432
+          },
+          {
+            "cluster_id": 12,
+            "importance_score": 78.02,
+            "post_count": 11,
+            "avg_score": 82.6,
+            "avg_comments": 90.1,
+            "avg_upvote_ratio": 0.484
+          },
+          {
+            "cluster_id": 8,
+            "importance_score": 57.68,
+            "post_count": 23,
+            "avg_score": 70.5,
+            "avg_comments": 45.6,
+            "avg_upvote_ratio": 0.439
+          },
+          {
+            "cluster_id": 9,
+            "importance_score": 35.93,
+            "post_count": 25,
+            "avg_score": 27.6,
+            "avg_comments": 40.0,
+            "avg_upvote_ratio": 0.507
+          }
+        ]
+      },
+      {
+        "niche": "movies",
+        "trends": [
+          {
+            "rank": 1,
+            "title": "Anticipation Builds for Upcoming 2026 Movie Trailers",
+            "description": "There's a significant surge in discussion around new movie trailers and posters, indicating high anticipation for upcoming 2026 releases. The community is actively engaging with official announcements, with keywords like 'trailer,' 'official,' and 'poster' dominating the conversation, signaling excitement for what's to come in theaters this summer and beyond. This pattern suggests a strong demand for fresh content and a keen interest in the early marketing stages of major films.",
+            "key_entities": {
+              "companies": [],
+              "products": [
+                "ACME",
+                "Magic 2",
+                "Trailer 2 - Paul Rudd"
+              ],
+              "people": [
+                "Hondo",
+                "Clayface",
+                "Avatar Aang",
+                "Trailer"
+              ]
+            },
+            "sentiment": "positive",
+            "importance": "This trend highlights the critical role of early marketing materials in shaping audience excitement and the pre-release buzz for upcoming films.",
+            "references": [
+              "https://reddit.com/r/movies/comments/1ssut7f/clayface_official_teaser_trailer/",
+              "https://reddit.com/r/movies/comments/1sqtj84/practical_magic_2_official_teaser_trailer/",
+              "https://reddit.com/r/movies/comments/1sskoya/coyote_vs_acme_official_trailer/"
+            ]
+          },
+          {
+            "rank": 2,
+            "title": "Michael Jackson Biopic Dominates Discussion",
+            "description": "The upcoming 'Michael' biopic, focusing on Michael Jackson, is a dominant topic of conversation, sparking discussions around reviews, historical accuracy, and the artist's legacy. The community is actively dissecting the film's narrative and its director's commentary on allegations, indicating a complex and engaged reception. This trend reflects a deep interest in both the musical icon and the ethical considerations surrounding biographical films.",
+            "key_entities": {
+              "companies": [],
+              "products": [],
+              "people": [
+                "Michael Jackson",
+                "Michael",
+                "Antoine Fuqua",
+                "Jaafar Jackson"
+              ]
+            },
+            "sentiment": "mixed",
+            "importance": "This trend signifies the powerful and often controversial impact of celebrity biopics on public discourse and critical analysis.",
+            "references": [
+              "https://reddit.com/r/movies/comments/1srmxgb/michael_review_thread/",
+              "https://reddit.com/r/movies/comments/1srm73l/the_jackson_estate_cant_hide_leaving_neverland/",
+              "https://reddit.com/r/movies/comments/1sr7nyi/michael_director_antoine_fuqua_questions_some/"
+            ]
+          },
+          {
+            "rank": 3,
+            "title": "Debate Over Acting Prowess and Oscar Worthiness",
+            "description": "Discussions are centered on the careers and acting abilities of various actors, with a particular focus on their Oscar prospects and perceived career trajectories. The community is actively debating who deserved awards, who is overlooked, and the legacy of iconic actors, indicating a strong appreciation for acting craft. This pattern suggests a continued high interest in the critical evaluation of performances and the awards landscape.",
+            "key_entities": {
+              "companies": [],
+              "products": [],
+              "people": [
+                "Oscar",
+                "Jack Nicholson",
+                "John Goodman",
+                "James Ortiz"
+              ]
+            },
+            "sentiment": "positive",
+            "importance": "This trend underscores the enduring fascination with acting talent and the metrics by which cinematic performances are judged, particularly through the lens of awards.",
+            "references": [
+              "https://reddit.com/r/movies/comments/1sththt/actors_who_you_thought_would_have_a_bigger_career/",
+              "https://reddit.com/r/movies/comments/1ss9p6o/what_do_yall_think_of_john_goodman/",
+              "https://reddit.com/r/movies/comments/1ssy12u/jack_nicholson_today_turns_89_years_old_greatest/"
+            ]
+          }
+        ],
+        "week_number": 17,
+        "week_label": "Apr 20 – Apr 24, 2026",
+        "post_count": 450,
+        "clusters_found": 11,
+        "noise_posts": 147,
+        "cluster_stats": [
+          {
+            "cluster_id": 0,
+            "importance_score": 1042.28,
+            "post_count": 39,
+            "avg_score": 1921.9,
+            "avg_comments": 219.9,
+            "avg_upvote_ratio": 0.767
+          },
+          {
+            "cluster_id": 4,
+            "importance_score": 538.06,
+            "post_count": 12,
+            "avg_score": 883.1,
+            "avg_comments": 280.0,
+            "avg_upvote_ratio": 0.626
+          },
+          {
+            "cluster_id": 3,
+            "importance_score": 467.64,
+            "post_count": 22,
+            "avg_score": 793.0,
+            "avg_comments": 193.4,
+            "avg_upvote_ratio": 0.658
+          },
+          {
+            "cluster_id": 6,
+            "importance_score": 339.57,
+            "post_count": 29,
+            "avg_score": 608.9,
+            "avg_comments": 72.7,
+            "avg_upvote_ratio": 0.667
+          },
+          {
+            "cluster_id": 2,
+            "importance_score": 275.0,
+            "post_count": 14,
+            "avg_score": 481.6,
+            "avg_comments": 64.9,
+            "avg_upvote_ratio": 0.738
+          },
+          {
+            "cluster_id": 7,
+            "importance_score": 233.13,
+            "post_count": 14,
+            "avg_score": 415.1,
+            "avg_comments": 34.4,
+            "avg_upvote_ratio": 0.761
+          },
+          {
+            "cluster_id": 8,
+            "importance_score": 188.27,
+            "post_count": 10,
+            "avg_score": 315.7,
+            "avg_comments": 54.6,
+            "avg_upvote_ratio": 0.702
+          },
+          {
+            "cluster_id": 5,
+            "importance_score": 176.24,
+            "post_count": 14,
+            "avg_score": 251.1,
+            "avg_comments": 117.3,
+            "avg_upvote_ratio": 0.774
+          },
+          {
+            "cluster_id": 10,
+            "importance_score": 87.18,
+            "post_count": 49,
+            "avg_score": 126.9,
+            "avg_comments": 53.7,
+            "avg_upvote_ratio": 0.381
+          },
+          {
+            "cluster_id": 9,
+            "importance_score": 52.94,
+            "post_count": 71,
+            "avg_score": 36.2,
+            "avg_comments": 82.5,
+            "avg_upvote_ratio": 0.504
+          },
+          {
+            "cluster_id": 1,
+            "importance_score": 37.75,
+            "post_count": 29,
+            "avg_score": 46.8,
+            "avg_comments": 20.4,
+            "avg_upvote_ratio": 0.411
+          }
+        ]
+      }
+    ],
+    "smartphones": [
+      {
+        "niche": "smartphones",
+        "trends": [
+          {
+            "rank": 1,
+            "title": "Seeking Flagship Performance: Camera, Battery, and Value",
+            "description": "Users are actively seeking recommendations for top-tier smartphones, with a consistent emphasis on camera quality, battery life, and overall performance, often within specific budget constraints. This reflects a community driven by aspirational purchases and the desire for the best mobile technology for their money. The focus on these key features indicates a maturing market where users have clear priorities for their next upgrade.",
+            "key_entities": {
+              "companies": [
+                "Oneplus",
+                "Samsung",
+                "Xiaomi",
+                "Google"
+              ],
+              "products": [
+                "OnePlus 15",
+                "Pixel 9 Pro XL",
+                "Oppo Find X9 Pro",
+                "Xiaomi 17"
+              ],
+              "people": []
+            },
+            "sentiment": "positive",
+            "importance": "This trend highlights the critical decision-making factors for consumers considering high-end smartphone purchases, guiding manufacturers on feature prioritization.",
+            "references": [
+              "https://reddit.com/r/Smartphones/comments/1s420l3/best_smartphone_for_performance_battery_fast/",
+              "https://reddit.com/r/Smartphones/comments/1s4agh5/best_phone_under_700_euros/",
+              "https://reddit.com/r/Smartphones/comments/1s78wgn/oneplus_15_or_pixel_9_pro_xl/"
+            ]
+          },
+          {
+            "rank": 2,
+            "title": "Apple vs. Samsung Dominance in Consumer Choice",
+            "description": "A significant portion of the community is deeply engaged in comparing and contrasting flagship devices from Apple and Samsung, reflecting their perceived market leadership. Users are seeking advice on which ecosystem or brand offers the best overall experience, indicating strong brand loyalty and a perceived lack of compelling alternatives. This persistent debate underscores the intense competition and consumer focus on these two tech giants.",
+            "key_entities": {
+              "companies": [
+                "Apple",
+                "Samsung",
+                "Android"
+              ],
+              "products": [
+                "iPhone",
+                "Galaxy"
+              ],
+              "people": []
+            },
+            "sentiment": "mixed",
+            "importance": "This recurring comparison highlights the duopoly in the high-end smartphone market and influences consumer perception and purchasing decisions.",
+            "references": [
+              "https://reddit.com/r/Smartphones/comments/1s5vk1h/why_apple_or_samsung/",
+              "https://reddit.com/r/Smartphones/comments/1s4iqxb/s25_ultra_or_iphone_15_pro_max/",
+              "https://reddit.com/r/Smartphones/comments/1s4jrt2/samsung_s26_ultra_or_iphon_17_pro_max/"
+            ]
+          },
+          {
+            "rank": 3,
+            "title": "Anticipation for Next-Gen iPhones and Samsung Ultras",
+            "description": "Discussions are heavily focused on upcoming flagship models, particularly the next iterations of the iPhone and Samsung's Galaxy Ultra series, indicating strong consumer anticipation for new hardware. Users are debating specific models, features like 'Pro Max' and 'Ultra,' and comparing them to current generations, signaling a cycle of upgrade planning and brand interest. This forward-looking sentiment suggests that product launch cycles and feature announcements are key drivers of community engagement.",
+            "key_entities": {
+              "companies": [
+                "Apple",
+                "Samsung"
+              ],
+              "products": [
+                "iPhone 17 Pro Max",
+                "iPhone 16 Pro Max",
+                "S26 Ultra",
+                "S25 Ultra",
+                "iPhone 17",
+                "iPhone 16"
+              ],
+              "people": [
+                "Max"
+              ]
+            },
+            "sentiment": "positive",
+            "importance": "This trend reveals the community's forward-looking interest in technological advancements and upcoming product releases from major players.",
+            "references": [
+              "https://reddit.com/r/Smartphones/comments/1s4jrt2/samsung_s26_ultra_or_iphon_17_pro_max/",
+              "https://reddit.com/r/Smartphones/comments/1s4legr/s26_ultra_iphone_16_pro_max/",
+              "https://reddit.com/r/Smartphones/comments/1s4da51/had_a_iphone_16_and_now_got_a_s25_ultra_and_idk/"
+            ]
+          }
+        ],
+        "week_number": 13,
+        "week_label": "Mar 25 – Mar 29, 2026",
+        "post_count": 115,
+        "clusters_found": 3,
+        "noise_posts": 39,
+        "cluster_stats": [
+          {
+            "cluster_id": 2,
+            "importance_score": 23.73,
+            "post_count": 24,
+            "avg_score": 4.2,
+            "avg_comments": 13.8,
+            "avg_upvote_ratio": 0.876
+          },
+          {
+            "cluster_id": 1,
+            "importance_score": 21.53,
+            "post_count": 28,
+            "avg_score": 3.1,
+            "avg_comments": 18.1,
+            "avg_upvote_ratio": 0.729
+          },
+          {
+            "cluster_id": 0,
+            "importance_score": 17.6,
+            "post_count": 24,
+            "avg_score": 1.8,
+            "avg_comments": 12.8,
+            "avg_upvote_ratio": 0.645
+          }
+        ]
+      },
+      {
+        "niche": "smartphones",
+        "trends": [
+          {
+            "rank": 1,
+            "title": "Flagship Smartphones Perceived as Stagnant and Uninspired",
+            "description": "A significant portion of the r/smartphones community feels that flagship phones have become boring and lack meaningful innovation year-over-year. Users are questioning the value proposition of new releases, lamenting the lack of exciting advancements and even specific design choices like the \"brick\" form factor. This sentiment suggests a growing disconnect between manufacturer marketing and consumer expectations for true progress in the high-end smartphone market.",
+            "key_entities": {
+              "companies": [
+                "Apple"
+              ],
+              "products": [],
+              "people": []
+            },
+            "sentiment": "mixed",
+            "importance": "This trend indicates a potential saturation point in the premium smartphone market, forcing manufacturers to reconsider their innovation strategies and marketing messages to re-engage consumers.",
+            "references": [
+              "https://reddit.com/r/Smartphones/comments/1sdbmzt/is_it_just_me_or_are_flagships_getting_kind_of/",
+              "https://reddit.com/r/Smartphones/comments/1s9uodz/why_is_every_phone_a_brick_now/",
+              "https://reddit.com/r/Smartphones/comments/1sapplx/why_are_modern_phones_so_boring/"
+            ]
+          },
+          {
+            "rank": 2,
+            "title": "Intense User Debates on Next Phone Purchase Decisions",
+            "description": "Users are actively seeking recommendations and comparing specific phone models, indicating a highly engaged consumer base in the process of choosing their next device. Discussions frequently revolve around brand comparisons, particularly between Samsung, Xiaomi, and Google Pixel, with a strong focus on value for money and longevity. This pattern highlights the competitive landscape and the importance of community validation in purchase decisions for mid-range and flagship devices.",
+            "key_entities": {
+              "companies": [
+                "Samsung",
+                "Xiaomi",
+                "Google"
+              ],
+              "products": [
+                "Galaxy S25",
+                "Galaxy S26",
+                "Xiaomi 15T Pro",
+                "Pixel 8a"
+              ],
+              "people": []
+            },
+            "sentiment": "mixed",
+            "importance": "This trend underscores the importance of comparative reviews and community consensus in driving purchase decisions, influencing brand perception and market share in a crowded smartphone market.",
+            "references": [
+              "https://reddit.com/r/Smartphones/comments/1sd3t51/guys_my_dad_wants_to_get_a_new_phone_thatll_last/",
+              "https://reddit.com/r/Smartphones/comments/1s87muf/s25_fe_or_are_there_better_options/",
+              "https://reddit.com/r/Smartphones/comments/1sbdl2s/samsung_galaxy_s25_vs_s26/"
+            ]
+          },
+          {
+            "rank": 3,
+            "title": "Cross-Platform Switching Dynamics Between iPhone and Android",
+            "description": "There's a consistent undercurrent of users considering or making the switch between iPhone and Android ecosystems, reflecting ongoing platform loyalty and exploration. Discussions often center on the perceived benefits and drawbacks of each operating system, with users weighing camera performance, app ecosystems, and user experience. This trend indicates that while platforms have solidified, there's still significant fluidity and indecision among consumers evaluating their mobile platform allegiance.",
+            "key_entities": {
+              "companies": [
+                "Apple",
+                "Samsung",
+                "Nothing"
+              ],
+              "products": [
+                "iPhone 16",
+                "iPhone 13",
+                "iPhone 12",
+                "iPhone 7",
+                "RedMagic 11 Pro",
+                "Samsung Flip 7"
+              ],
+              "people": []
+            },
+            "sentiment": "mixed",
+            "importance": "This ongoing switching behavior highlights that neither platform has a complete lock on user loyalty, and opportunities exist for brands to attract users by addressing specific pain points or offering compelling new features.",
+            "references": [
+              "https://reddit.com/r/Smartphones/comments/1s7zmro/going_back_to_android/",
+              "https://reddit.com/r/Smartphones/comments/1s8etvi/iphone_13_to_android/",
+              "https://reddit.com/r/Smartphones/comments/1sbmzzp/my_honest_opinion_about_swapping_to_iphone_for/"
+            ]
+          }
+        ],
+        "week_number": 14,
+        "week_label": "Mar 30 – Apr 05, 2026",
+        "post_count": 211,
+        "clusters_found": 9,
+        "noise_posts": 64,
+        "cluster_stats": [
+          {
+            "cluster_id": 1,
+            "importance_score": 37.83,
+            "post_count": 12,
+            "avg_score": 29.0,
+            "avg_comments": 29.8,
+            "avg_upvote_ratio": 0.72
+          },
+          {
+            "cluster_id": 6,
+            "importance_score": 23.32,
+            "post_count": 15,
+            "avg_score": 2.5,
+            "avg_comments": 12.8,
+            "avg_upvote_ratio": 0.911
+          },
+          {
+            "cluster_id": 8,
+            "importance_score": 21.68,
+            "post_count": 11,
+            "avg_score": 5.0,
+            "avg_comments": 13.3,
+            "avg_upvote_ratio": 0.76
+          },
+          {
+            "cluster_id": 7,
+            "importance_score": 21.61,
+            "post_count": 17,
+            "avg_score": 2.7,
+            "avg_comments": 15.8,
+            "avg_upvote_ratio": 0.776
+          },
+          {
+            "cluster_id": 4,
+            "importance_score": 21.05,
+            "post_count": 17,
+            "avg_score": 5.4,
+            "avg_comments": 13.6,
+            "avg_upvote_ratio": 0.714
+          },
+          {
+            "cluster_id": 3,
+            "importance_score": 20.44,
+            "post_count": 24,
+            "avg_score": 2.0,
+            "avg_comments": 8.5,
+            "avg_upvote_ratio": 0.845
+          },
+          {
+            "cluster_id": 5,
+            "importance_score": 19.94,
+            "post_count": 12,
+            "avg_score": 1.9,
+            "avg_comments": 13.2,
+            "avg_upvote_ratio": 0.752
+          },
+          {
+            "cluster_id": 0,
+            "importance_score": 19.3,
+            "post_count": 21,
+            "avg_score": 2.2,
+            "avg_comments": 10.0,
+            "avg_upvote_ratio": 0.759
+          },
+          {
+            "cluster_id": 2,
+            "importance_score": 16.87,
+            "post_count": 18,
+            "avg_score": 1.4,
+            "avg_comments": 8.9,
+            "avg_upvote_ratio": 0.674
+          }
+        ]
+      },
+      {
+        "niche": "smartphones",
+        "trends": [
+          {
+            "rank": 1,
+            "title": "Pixel and Android flagships are top contenders for upgrades",
+            "description": "Users are actively seeking advice and comparing Google Pixel devices, along with other Android flagships like Oppo, for their next phone purchase, indicating a strong interest in these brands for long-term use and upgrades. This discussion is driven by a desire for good battery life and overall performance, with a focus on future-proofing their investment. The sentiment suggests a positive outlook on the Pixel lineup and other premium Android offerings.",
+            "key_entities": {
+              "companies": [
+                "Google",
+                "Oppo",
+                "Samsung"
+              ],
+              "products": [
+                "Pixel 7",
+                "Pixel 10a",
+                "Oppo Find X9 Ultra",
+                "Vivo X300 Ultra"
+              ],
+              "people": []
+            },
+            "sentiment": "positive",
+            "importance": "This trend highlights user confidence in Google Pixel and other Android flagships for their longevity and performance, guiding potential buyers.",
+            "references": [
+              "https://reddit.com/r/Smartphones/comments/1sgwodh/switch_from_google_pixel_6a_to_9a_or_10a/",
+              "https://reddit.com/r/Smartphones/comments/1sgdqw7/time_to_upgrade_the_phone_coming_from_pixel_7/",
+              "https://reddit.com/r/Smartphones/comments/1shsnlz/vivo_x300_ultra_or_oppo_find_x9_ultra_for/"
+            ]
+          },
+          {
+            "rank": 2,
+            "title": "Balancing camera and battery in next smartphone purchase",
+            "description": "A significant pattern emerges from users seeking smartphones that excel in both camera quality and battery life, indicating a crucial trade-off in their purchasing decisions. This concern is fueled by the desire for devices that can reliably capture memories and last through extended use without constant charging. The community is looking for recommendations that balance these often competing priorities in the latest flagship and mid-range models.",
+            "key_entities": {
+              "companies": [
+                "Samsung",
+                "Apple",
+                "Google"
+              ],
+              "products": [
+                "iPhone",
+                "Samsung A57",
+                "Pixel 10a"
+              ],
+              "people": []
+            },
+            "sentiment": "mixed",
+            "importance": "This ongoing debate over camera and battery optimization reflects user priorities and influences brand development in the competitive smartphone market.",
+            "references": [
+              "https://reddit.com/r/Smartphones/comments/1shjvrg/best_compact_flagship_in_2026_camera_battery/",
+              "https://reddit.com/r/Smartphones/comments/1sgn1zh/what_smartphone_is_good_for_a_camera_right_now/",
+              "https://reddit.com/r/Smartphones/comments/1simb9f/samsung_a57_or_iphone_13pm14plus/"
+            ]
+          },
+          {
+            "rank": 3,
+            "title": "Android ecosystem and its specific features driving user preference",
+            "description": "Discussions reveal a strong loyalty to the Android ecosystem, with users highlighting specific features like voice assistant performance and the convenience of 'app lock' as reasons for their preference. This indicates that beyond core hardware, the software experience and integrated services are key differentiators for Android users. The sentiment suggests a satisfaction with the current Android offering but also an appetite for continued improvement in voice interaction.",
+            "key_entities": {
+              "companies": [
+                "Google",
+                "Samsung",
+                "Xiaomi"
+              ],
+              "products": [
+                "Android",
+                "Pixel 10",
+                "Xiomi Note 10"
+              ],
+              "people": []
+            },
+            "sentiment": "positive",
+            "importance": "This trend underscores the importance of the Android software ecosystem and its unique features in retaining users and shaping future development.",
+            "references": [
+              "https://reddit.com/r/Smartphones/comments/1shlv8q/this_is_why_deep_down_ive_always_been_and_android/",
+              "https://reddit.com/r/Smartphones/comments/1shyqyi/why_is_android_voice_assistant_experience_still/",
+              "https://reddit.com/r/Smartphones/comments/1sjl3rz/comment_retrouver_laccès_à_mon_xiomi_note_10_sans/"
+            ]
+          }
+        ],
+        "week_number": 15,
+        "week_label": "Apr 06 – Apr 12, 2026",
+        "post_count": 329,
+        "clusters_found": 8,
+        "noise_posts": 141,
+        "cluster_stats": [
+          {
+            "cluster_id": 6,
+            "importance_score": 24.38,
+            "post_count": 10,
+            "avg_score": 3.6,
+            "avg_comments": 15.8,
+            "avg_upvote_ratio": 0.892
+          },
+          {
+            "cluster_id": 0,
+            "importance_score": 23.14,
+            "post_count": 46,
+            "avg_score": 6.8,
+            "avg_comments": 11.1,
+            "avg_upvote_ratio": 0.82
+          },
+          {
+            "cluster_id": 1,
+            "importance_score": 22.97,
+            "post_count": 11,
+            "avg_score": 4.8,
+            "avg_comments": 14.9,
+            "avg_upvote_ratio": 0.805
+          },
+          {
+            "cluster_id": 3,
+            "importance_score": 20.99,
+            "post_count": 39,
+            "avg_score": 1.8,
+            "avg_comments": 7.4,
+            "avg_upvote_ratio": 0.893
+          },
+          {
+            "cluster_id": 4,
+            "importance_score": 20.29,
+            "post_count": 21,
+            "avg_score": 1.7,
+            "avg_comments": 11.1,
+            "avg_upvote_ratio": 0.805
+          },
+          {
+            "cluster_id": 2,
+            "importance_score": 19.6,
+            "post_count": 17,
+            "avg_score": 2.6,
+            "avg_comments": 9.3,
+            "avg_upvote_ratio": 0.776
+          },
+          {
+            "cluster_id": 5,
+            "importance_score": 19.56,
+            "post_count": 19,
+            "avg_score": 1.8,
+            "avg_comments": 10.3,
+            "avg_upvote_ratio": 0.777
+          },
+          {
+            "cluster_id": 7,
+            "importance_score": 18.72,
+            "post_count": 25,
+            "avg_score": 1.4,
+            "avg_comments": 4.9,
+            "avg_upvote_ratio": 0.827
+          }
+        ]
+      },
+      {
+        "niche": "smartphones",
+        "trends": [
+          {
+            "rank": 1,
+            "title": "User reluctance to upgrade, seeking phone longevity",
+            "description": "A significant pattern shows users actively trying to prolong the life of their current phones and resist the urge to upgrade frequently. This suggests a growing sentiment of satisfaction with existing devices or increasing financial/environmental consciousness regarding phone ownership. The community is seeking advice and validation for keeping their phones longer.",
+            "key_entities": {
+              "companies": [],
+              "products": [
+                "iPhone 15"
+              ],
+              "people": []
+            },
+            "sentiment": "mixed",
+            "importance": "This trend indicates a potential slowdown in upgrade cycles and a shift in consumer priorities beyond the latest features.",
+            "references": [
+              "https://reddit.com/r/Smartphones/comments/1speuah/how_to_convince_myself_to_use_my_iphone_15_for/",
+              "https://reddit.com/r/Smartphones/comments/1soqqay/how_do_i_resist_de_urge_of_changing_my_phone/",
+              "https://reddit.com/r/Smartphones/comments/1sk7dmq/fix_or_new_phone/"
+            ]
+          },
+          {
+            "rank": 2,
+            "title": "High demand for phone recommendations across budgets",
+            "description": "There's a clear and consistent pattern of users actively seeking phone recommendations, often specifying budget constraints and desired features like camera quality and battery life. This indicates a strong, ongoing need for guidance in a crowded and rapidly evolving smartphone market. The sheer volume of these requests suggests consumers are overwhelmed by choices and value peer advice.",
+            "key_entities": {
+              "companies": [
+                "Motorola"
+              ],
+              "products": [
+                "Iphone",
+                "70 Fusion"
+              ],
+              "people": []
+            },
+            "sentiment": "positive",
+            "importance": "This trend highlights the ongoing challenge for consumers to navigate smartphone purchasing decisions and the importance of community-driven advice.",
+            "references": [
+              "https://reddit.com/r/Smartphones/comments/1sn4n7c/help/",
+              "https://reddit.com/r/Smartphones/comments/1snwegy/anyone_got_new_phone_recommendations/",
+              "https://reddit.com/r/Smartphones/comments/1sl41x9/need_recommendations/"
+            ]
+          },
+          {
+            "rank": 3,
+            "title": "Intense brand and model comparison for future flagships",
+            "description": "A prominent trend involves users deeply comparing upcoming flagship models, particularly between Apple's iPhones and Samsung's Galaxy series, and speculating about future iterations. This indicates a highly engaged enthusiast community focused on performance, features, and brand loyalty, driving discussions about the next generation of high-end devices. The recurring comparisons and desire for the 'better' option fuel continuous debate.",
+            "key_entities": {
+              "companies": [
+                "Samsung",
+                "Apple",
+                "Android"
+              ],
+              "products": [
+                "S26 Ultra",
+                "iPhone 17 Pro",
+                "Galaxy S26",
+                "iPhone 16",
+                "iPhone 17 Pro Max",
+                "Pixel 10 Pro XL"
+              ],
+              "people": [
+                "max"
+              ]
+            },
+            "sentiment": "mixed",
+            "importance": "This trend reflects the competitive landscape of the high-end smartphone market and the passionate debate among brand loyalists and tech enthusiasts.",
+            "references": [
+              "https://reddit.com/r/Smartphones/comments/1sq4q6m/s25_ultra_or_s26_ultra_or_iphone_17_pro/",
+              "https://reddit.com/r/Smartphones/comments/1sl8lrs/iphone_vs_samsung/",
+              "https://reddit.com/r/Smartphones/comments/1snuckb/iphone_17_pro_max_vs_s26_ultra_vs_pixel_10_pro_xl/"
+            ]
+          }
+        ],
+        "week_number": 16,
+        "week_label": "Apr 13 – Apr 19, 2026",
+        "post_count": 349,
+        "clusters_found": 7,
+        "noise_posts": 130,
+        "cluster_stats": [
+          {
+            "cluster_id": 4,
+            "importance_score": 22.52,
+            "post_count": 16,
+            "avg_score": 4.6,
+            "avg_comments": 8.3,
+            "avg_upvote_ratio": 0.888
+          },
+          {
+            "cluster_id": 5,
+            "importance_score": 22.47,
+            "post_count": 32,
+            "avg_score": 3.1,
+            "avg_comments": 11.4,
+            "avg_upvote_ratio": 0.875
+          },
+          {
+            "cluster_id": 1,
+            "importance_score": 21.38,
+            "post_count": 66,
+            "avg_score": 2.3,
+            "avg_comments": 11.8,
+            "avg_upvote_ratio": 0.833
+          },
+          {
+            "cluster_id": 6,
+            "importance_score": 21.22,
+            "post_count": 11,
+            "avg_score": 2.8,
+            "avg_comments": 6.5,
+            "avg_upvote_ratio": 0.894
+          },
+          {
+            "cluster_id": 0,
+            "importance_score": 20.12,
+            "post_count": 22,
+            "avg_score": 2.7,
+            "avg_comments": 12.1,
+            "avg_upvote_ratio": 0.758
+          },
+          {
+            "cluster_id": 2,
+            "importance_score": 19.52,
+            "post_count": 62,
+            "avg_score": 1.6,
+            "avg_comments": 6.0,
+            "avg_upvote_ratio": 0.846
+          },
+          {
+            "cluster_id": 3,
+            "importance_score": 19.48,
+            "post_count": 10,
+            "avg_score": 2.1,
+            "avg_comments": 3.9,
+            "avg_upvote_ratio": 0.863
+          }
+        ]
+      },
+      {
+        "niche": "smartphones",
+        "trends": [
+          {
+            "rank": 1,
+            "title": "iOS vs. Android Cross-Platform Migration Debates",
+            "description": "A significant pattern of users contemplating or executing switches between iOS and Android ecosystems is evident. This discussion is driven by a desire for new experiences, potentially after long periods on one platform (e.g., 'after 8 years'), indicating a cyclical churn in user preference. The sentiment is generally positive/excited, suggesting users are open to exploring alternatives.",
+            "key_entities": {
+              "companies": [
+                "Apple",
+                "Android",
+                "Google",
+                "Samsung"
+              ],
+              "products": [
+                "iOS",
+                "iPhone"
+              ],
+              "people": [
+                "Tim Cook"
+              ]
+            },
+            "sentiment": "positive",
+            "importance": "This trend highlights user engagement with ecosystem loyalty and a continuous search for the optimal mobile experience, influencing brand perception and market share.",
+            "references": [
+              "https://reddit.com/r/Smartphones/comments/1sr8hok/thinking_of_going_back_to_androids_from_ios_after/",
+              "https://reddit.com/r/Smartphones/comments/1ss4ohw/anyone_switch_from_ios_to_android_or_the_other/",
+              "https://reddit.com/r/Smartphones/comments/1stg14t/how_do_you_expect_apple_to_change_after_tim_cooks/"
+            ]
+          },
+          {
+            "rank": 2,
+            "title": "Seeking Phone Recommendations & Advice",
+            "description": "A strong recurring pattern involves users actively seeking recommendations for new phone purchases across various needs and budgets. This is fueled by a constant desire for better features like cameras and battery life, and the need for guidance in a rapidly evolving market. The positive sentiment indicates a community that is eager to share and receive advice on making informed purchase decisions.",
+            "key_entities": {
+              "companies": [
+                "Samsung",
+                "Motorola Edge",
+                "Tecno"
+              ],
+              "products": [
+                "Samsung Galaxy",
+                "Android"
+              ],
+              "people": []
+            },
+            "sentiment": "positive",
+            "importance": "This trend underscores the ongoing demand for personalized mobile device advice and the community's role as a trusted source of purchasing information.",
+            "references": [
+              "https://reddit.com/r/Smartphones/comments/1sqi7dm/needed_advise_for_getting_new_phone_for_my_sister/",
+              "https://reddit.com/r/Smartphones/comments/1srwhsk/what_cellphone_would_you_buy_today/",
+              "https://reddit.com/r/Smartphones/comments/1stmrtd/i_need_phone_recommendations/"
+            ]
+          },
+          {
+            "rank": 3,
+            "title": "Addressing Specific Phone Hardware/Display Issues",
+            "description": "Users are frequently discussing specific hardware or display-related problems with their phones, particularly the 'green line' issue. This pattern highlights a common concern among users, signaling a potential manufacturing defect or design flaw that leads to user dissatisfaction and active searching for replacements. The community sentiment is positive in the context of seeking solutions and recommendations, despite the underlying negative product experience.",
+            "key_entities": {
+              "companies": [
+                "Samsung"
+              ],
+              "products": [
+                "Samsung Edge",
+                "Android",
+                "iPhone"
+              ],
+              "people": []
+            },
+            "sentiment": "mixed",
+            "importance": "This trend points to recurring hardware vulnerabilities that impact user experience and can influence purchasing decisions for specific brands or models.",
+            "references": [
+              "https://reddit.com/r/Smartphones/comments/1sslb6j/my_phone_succumbed_to_the_green_line_need/",
+              "https://reddit.com/r/Smartphones/comments/1ss5hce/should_i_get_a_tempered_glass_with_a_cutout_for/",
+              "https://reddit.com/r/Smartphones/comments/1sqgpk4/how_to_capture_sharp_natural_selfies_in_any/"
+            ]
+          }
+        ],
+        "week_number": 17,
+        "week_label": "Apr 20 – Apr 24, 2026",
+        "post_count": 222,
+        "clusters_found": 6,
+        "noise_posts": 46,
+        "cluster_stats": [
+          {
+            "cluster_id": 2,
+            "importance_score": 26.94,
+            "post_count": 15,
+            "avg_score": 8.2,
+            "avg_comments": 27.2,
+            "avg_upvote_ratio": 0.734
+          },
+          {
+            "cluster_id": 4,
+            "importance_score": 21.87,
+            "post_count": 47,
+            "avg_score": 2.4,
+            "avg_comments": 7.0,
+            "avg_upvote_ratio": 0.928
+          },
+          {
+            "cluster_id": 5,
+            "importance_score": 21.71,
+            "post_count": 10,
+            "avg_score": 2.4,
+            "avg_comments": 5.3,
+            "avg_upvote_ratio": 0.946
+          },
+          {
+            "cluster_id": 3,
+            "importance_score": 19.43,
+            "post_count": 42,
+            "avg_score": 1.9,
+            "avg_comments": 5.4,
+            "avg_upvote_ratio": 0.844
+          },
+          {
+            "cluster_id": 0,
+            "importance_score": 19.19,
+            "post_count": 29,
+            "avg_score": 1.7,
+            "avg_comments": 4.2,
+            "avg_upvote_ratio": 0.854
+          },
+          {
+            "cluster_id": 1,
+            "importance_score": 17.68,
+            "post_count": 33,
+            "avg_score": 1.6,
+            "avg_comments": 10.3,
+            "avg_upvote_ratio": 0.69
+          }
+        ]
+      }
+    ],
+    "gaming": [
+      {
+        "niche": "gaming",
+        "trends": [
+          {
+            "rank": 1,
+            "title": "Console price sensitivity and value proposition concerns",
+            "description": "There's a growing discussion around console pricing, with users comparing launch prices to current ones and questioning the value proposition of newer models like the PS5 Pro. This sentiment is amplified by concerns over repair costs and the perceived value of digital versus physical games. The community is actively seeking reasons to justify purchases and debating the ongoing cost of gaming.",
+            "key_entities": {
+              "companies": [
+                "Nintendo",
+                "PlayStation",
+                "Xbox"
+              ],
+              "products": [
+                "PS5",
+                "PS5 Pro",
+                "PlayStation Portal",
+                "Switch 2"
+              ],
+              "people": []
+            },
+            "sentiment": "mixed",
+            "importance": "This trend highlights user financial awareness and a demand for clear value from hardware investments, influencing purchasing decisions and brand loyalty.",
+            "references": [
+              "https://reddit.com/r/gaming/comments/1s74jtq/playstation_console_prices_at_launch_vs_6_years/",
+              "https://reddit.com/r/gaming/comments/1s527zz/new_price_changes_for_ps5_ps5_pro_and_playstation/",
+              "https://reddit.com/r/gaming/comments/1s5gb3j/what_reasons_are_there_to_get_a_ps5/"
+            ]
+          },
+          {
+            "rank": 2,
+            "title": "Nostalgic and opinion-based game discussions thrive",
+            "description": "A significant pattern emerges from users reminiscing about past gaming experiences and sharing strong opinions on game design and player skill. The community is actively seeking out games that evoke specific feelings or challenge their perception of difficulty and enjoyment, leading to discussions about time-melting games, frustrating puzzles, and childhood gaming regrets. This indicates a desire to connect through shared gaming memories and subjective experiences.",
+            "key_entities": {
+              "companies": [
+                "Ubisoft",
+                "Bethesda"
+              ],
+              "products": [
+                "Mass Effect",
+                "Crimson Desert",
+                "Skyrim"
+              ],
+              "people": [
+                "Edward Kenway",
+                "Shanks Fanart"
+              ]
+            },
+            "sentiment": "positive",
+            "importance": "This trend underscores the lasting impact of games on players' lives and the community's desire to share and validate these personal connections.",
+            "references": [
+              "https://reddit.com/r/gaming/comments/1s76i5f/ive_been_looking_for_games_that_feel_like_video/",
+              "https://reddit.com/r/gaming/comments/1s4c7q8/whats_the_most_time_melter_game_of_all_time_in/",
+              "https://reddit.com/r/gaming/comments/1s644az/what_is_a_game_that_youre_good_at_that_you_later/"
+            ]
+          },
+          {
+            "rank": 3,
+            "title": "Anticipation for upcoming game reveals and partnerships",
+            "description": "There's a clear surge of excitement and discussion around upcoming game announcements and reveals, particularly those associated with Xbox Partner Previews. Users are actively sharing trailers and release information for new titles across multiple platforms, indicating a strong interest in the future of gaming. This trend highlights the community's engagement with industry events and their anticipation for new content from both established and emerging studios.",
+            "key_entities": {
+              "companies": [
+                "Xbox",
+                "PlayStation"
+              ],
+              "products": [
+                "Hades II",
+                "V Rising",
+                "Last Epoch",
+                "Life is Strange: Reunion"
+              ],
+              "people": [
+                "Detective Pikachu"
+              ]
+            },
+            "sentiment": "positive",
+            "importance": "This trend demonstrates a strong consumer appetite for new gaming content and highlights the importance of consistent developer and publisher communication.",
+            "references": [
+              "https://reddit.com/r/gaming/comments/1s4e2wz/hades_ii_announce_trailer_coming_to_ps5_and_xbox/",
+              "https://reddit.com/r/gaming/comments/1s4d2l6/megathread_xbox_partner_showcase/",
+              "https://reddit.com/r/gaming/comments/1s4bsmx/life_is_strange_reunion_releases_today_on_ps5/"
+            ]
+          }
+        ],
+        "week_number": 13,
+        "week_label": "Mar 25 – Mar 29, 2026",
+        "post_count": 122,
+        "clusters_found": 3,
+        "noise_posts": 24,
+        "cluster_stats": [
+          {
+            "cluster_id": 1,
+            "importance_score": 1587.35,
+            "post_count": 18,
+            "avg_score": 2972.8,
+            "avg_comments": 297.7,
+            "avg_upvote_ratio": 0.582
+          },
+          {
+            "cluster_id": 0,
+            "importance_score": 472.86,
+            "post_count": 65,
+            "avg_score": 802.8,
+            "avg_comments": 193.3,
+            "avg_upvote_ratio": 0.672
+          },
+          {
+            "cluster_id": 2,
+            "importance_score": 173.37,
+            "post_count": 15,
+            "avg_score": 277.3,
+            "avg_comments": 71.9,
+            "avg_upvote_ratio": 0.658
+          }
+        ]
+      },
+      {
+        "niche": "gaming",
+        "trends": [
+          {
+            "rank": 1,
+            "title": "Nostalgic Gaming Reflections and Personal Impact",
+            "description": "The community is deeply engaged in reflecting on the personal significance of past video games, sharing their formative experiences and rediscovering lost interest. This pattern highlights a desire to connect with the emotional core of gaming and seek recommitment to the hobby. It signals a broader sentiment of cherishing gaming's past while actively seeking ways to re-engage with it in the present.",
+            "key_entities": {
+              "companies": [],
+              "products": [],
+              "people": [
+                "The Gaming Historian"
+              ]
+            },
+            "sentiment": "positive",
+            "importance": "This trend underscores the lasting emotional impact of video games and the community's collective desire to maintain a connection with the hobby, even through periods of disinterest.",
+            "references": [
+              "https://reddit.com/r/gaming/comments/1s90arp/use_your_libraries/",
+              "https://reddit.com/r/gaming/comments/1sbmgcw/the_gaming_historian_is_done/",
+              "https://reddit.com/r/gaming/comments/1scr6zm/how_can_i_start_gaming_again_lacking_interest/"
+            ]
+          },
+          {
+            "rank": 2,
+            "title": "Heightened Awareness of Rising Game and Hardware Costs",
+            "description": "There's a palpable concern and discussion around increasing prices for both video games and gaming hardware, with many posts highlighting significant price hikes and their potential impact. This widespread discussion suggests a growing anxiety within the community about the affordability and accessibility of the hobby. It signals a potential shift in consumer purchasing behavior and a critical look at the economic sustainability of the game industry.",
+            "key_entities": {
+              "companies": [
+                "PlayStation",
+                "Nintendo",
+                "Lenovo"
+              ],
+              "products": [
+                "Switch 2",
+                "PlayStation prices"
+              ],
+              "people": [
+                "Shigeru Miyamoto"
+              ]
+            },
+            "sentiment": "mixed",
+            "importance": "This trend indicates a growing financial pressure on consumers within the gaming community, potentially impacting future purchasing decisions and the overall accessibility of new gaming experiences.",
+            "references": [
+              "https://reddit.com/r/gaming/comments/1s9iepu/playstation_prices_adjusted_for_inflation/",
+              "https://reddit.com/r/gaming/comments/1sbkuao/hardware_price_increases_have_video_games_facing/",
+              "https://reddit.com/r/gaming/comments/1scn4wb/a_price_hike_for_the_nintendo_switch_2_is/"
+            ]
+          },
+          {
+            "rank": 3,
+            "title": "Celebration of Gaming Culture and Creative Expression",
+            "description": "The community is actively celebrating gaming culture through a variety of creative outlets, including fan art, cosplay, and discussions about character creation. This recurring theme highlights a strong appreciation for the artistic and imaginative aspects of video games. It signals a vibrant and engaged fanbase that actively contributes to and expands upon the worlds and characters they love.",
+            "key_entities": {
+              "companies": [],
+              "products": [
+                "Mass Effect",
+                "Scott Pilgrim EX"
+              ],
+              "people": [
+                "Bryan Lee O’Malley",
+                "Scott Pilgrim"
+              ]
+            },
+            "sentiment": "positive",
+            "importance": "This trend demonstrates the enduring passion and creativity of the gaming community, showcasing how players engage with and express their fandom beyond just playing the games themselves.",
+            "references": [
+              "https://reddit.com/r/gaming/comments/1s88v9n/we_are_getting_three_games_inspired_by_mass_effect/",
+              "https://reddit.com/r/gaming/comments/1s8qbs7/bryan_lee_omalley_and_scott_pilgrim_ex_devs_are/",
+              "https://reddit.com/r/gaming/comments/1sbumt4/character_creation_in_games/"
+            ]
+          }
+        ],
+        "week_number": 14,
+        "week_label": "Mar 30 – Apr 05, 2026",
+        "post_count": 203,
+        "clusters_found": 6,
+        "noise_posts": 54,
+        "cluster_stats": [
+          {
+            "cluster_id": 2,
+            "importance_score": 1393.24,
+            "post_count": 10,
+            "avg_score": 2666.1,
+            "avg_comments": 163.5,
+            "avg_upvote_ratio": 0.557
+          },
+          {
+            "cluster_id": 3,
+            "importance_score": 1186.32,
+            "post_count": 15,
+            "avg_score": 2191.7,
+            "avg_comments": 248.8,
+            "avg_upvote_ratio": 0.791
+          },
+          {
+            "cluster_id": 4,
+            "importance_score": 976.03,
+            "post_count": 45,
+            "avg_score": 1825.5,
+            "avg_comments": 168.2,
+            "avg_upvote_ratio": 0.642
+          },
+          {
+            "cluster_id": 5,
+            "importance_score": 553.58,
+            "post_count": 12,
+            "avg_score": 1008.8,
+            "avg_comments": 113.4,
+            "avg_upvote_ratio": 0.757
+          },
+          {
+            "cluster_id": 1,
+            "importance_score": 199.32,
+            "post_count": 53,
+            "avg_score": 274.3,
+            "avg_comments": 164.4,
+            "avg_upvote_ratio": 0.644
+          },
+          {
+            "cluster_id": 0,
+            "importance_score": 116.83,
+            "post_count": 14,
+            "avg_score": 158.4,
+            "avg_comments": 92.4,
+            "avg_upvote_ratio": 0.497
+          }
+        ]
+      },
+      {
+        "niche": "gaming",
+        "trends": [
+          {
+            "rank": 1,
+            "title": "Anticipation and comparison for Crimson Desert's release",
+            "description": "Players are actively discussing and comparing the upcoming game Crimson Desert with established titles like Elden Ring and Kingdom Come: Deliverance 2, indicating a strong desire for new, expansive RPG experiences. The community is engaged in visual comparisons and debating potential gameplay, suggesting high expectations and a readiness to adopt promising new IPs. This discussion signals a growing excitement for visually impressive open-world games that offer deep gameplay.",
+            "key_entities": {
+              "companies": [],
+              "products": [
+                "Crimson Desert",
+                "Elden Ring",
+                "Kingdom Come: Deliverance 2",
+                "Skyrim",
+                "Oblivion"
+              ],
+              "people": []
+            },
+            "sentiment": "positive",
+            "importance": "This trend highlights the community's eagerness for next-generation open-world RPGs and their critical evaluation of pre-release content.",
+            "references": [
+              "https://reddit.com/r/gaming/comments/1siml83/dont_they_look_a_lot_similar_crimson_desert_and/",
+              "https://reddit.com/r/gaming/comments/1sg6kuy/oblivion_remastered_or_crimson_desert/",
+              "https://reddit.com/r/gaming/comments/1si5ogi/oc_crimson_desert_sometimes_i_take_time_off_from/"
+            ]
+          },
+          {
+            "rank": 2,
+            "title": "Ongoing game development and developer support highlighted",
+            "description": "The continued development and free updates for long-standing games like No Man's Sky and the significant budget allocation for new titles like Marathon are generating substantial discussion. Players are positively reacting to developers investing in their games long after launch, as well as debating the massive investments being made in AAA titles. This reflects a community that values long-term game support and is keenly interested in the financial aspects and potential of major game projects.",
+            "key_entities": {
+              "companies": [
+                "Xbox",
+                "Rockstar Staff",
+                "Valve",
+                "Nvidia",
+                "Google"
+              ],
+              "products": [
+                "No Man's Sky",
+                "Marathon",
+                "Death Stranding",
+                "Cyberpunk 2077",
+                "Forza Horizon",
+                "GTA 6",
+                "Doki Doki Literature Club"
+              ],
+              "people": [
+                "Forza Horizon",
+                "Switch 2"
+              ]
+            },
+            "sentiment": "mixed",
+            "importance": "This trend underscores the evolving relationship between players and developers, emphasizing player retention through continued content and the significant financial stakes in game development.",
+            "references": [
+              "https://reddit.com/r/gaming/comments/1sfyidb/no_mans_sky_with_42nd_free_major_update_the/",
+              "https://reddit.com/r/gaming/comments/1sgy773/former_gta_6_developer_warns_trailer_visuals_wont/",
+              "https://reddit.com/r/gaming/comments/1sgy773/paul_tassi_forbes_i_can_confirm_marathons_budget/"
+            ]
+          }
+        ],
+        "week_number": 15,
+        "week_label": "Apr 06 – Apr 12, 2026",
+        "post_count": 202,
+        "clusters_found": 2,
+        "noise_posts": 10,
+        "cluster_stats": [
+          {
+            "cluster_id": 0,
+            "importance_score": 871.88,
+            "post_count": 10,
+            "avg_score": 1643.7,
+            "avg_comments": 131.1,
+            "avg_upvote_ratio": 0.535
+          },
+          {
+            "cluster_id": 1,
+            "importance_score": 516.59,
+            "post_count": 182,
+            "avg_score": 901.3,
+            "avg_comments": 175.3,
+            "avg_upvote_ratio": 0.667
+          }
+        ]
+      },
+      {
+        "niche": "gaming",
+        "trends": [
+          {
+            "rank": 1,
+            "title": "Anticipation for Pragmata and Unique Indie Game Concepts",
+            "description": "There's significant excitement surrounding the upcoming game 'Pragmata,' with users actively discussing its unique qualities and potential. This excitement is amplified by the community's appreciation for fresh, unconventional game ideas, as evidenced by discussions around games like 'Hieronymus' inspired by art. The recurring positive sentiment suggests a strong desire for innovation and artistic expression in new game releases.",
+            "key_entities": {
+              "companies": [
+                "Pragmata",
+                "Capcom",
+                "Yaza Games"
+              ],
+              "products": [
+                "Pragmata",
+                "Hieronymus"
+              ],
+              "people": [
+                "Hieronymus Bosch"
+              ]
+            },
+            "sentiment": "positive",
+            "importance": "This trend highlights a growing demand for unique game concepts and a positive reception of titles that push creative boundaries.",
+            "references": [
+              "https://reddit.com/r/gaming/comments/1so1erg/i_see_what_youre_doing_pragmata/",
+              "https://reddit.com/r/gaming/comments/1smosxr/hieronymus_a_fps_currently_in_development_based/",
+              "https://reddit.com/r/gaming/comments/1skddnk/pragmata_review_thread/"
+            ]
+          },
+          {
+            "rank": 2,
+            "title": "Debate Over Game Subscription Services and Pricing",
+            "description": "A pattern of concern is emerging around the perceived increasing cost and value proposition of game subscription services like Xbox Game Pass. Users are questioning the sustainability and affordability of these models, especially in light of past free game offerings on other platforms. This suggests a community sentiment that is beginning to weigh the long-term financial implications of subscription-based gaming against traditional ownership models.",
+            "key_entities": {
+              "companies": [
+                "Microsoft",
+                "Epic Games Store",
+                "Ubisoft"
+              ],
+              "products": [
+                "Xbox Game Pass",
+                "Steam"
+              ],
+              "people": []
+            },
+            "sentiment": "mixed",
+            "importance": "This trend indicates a potential shift in consumer perception regarding the value and long-term viability of game subscription services.",
+            "references": [
+              "https://reddit.com/r/gaming/comments/1skidi5/xbox_game_pass_has_become_too_expensive_says/",
+              "https://reddit.com/r/gaming/comments/1sl5ovi/epic_games_store_employees_people_only_came_for/",
+              "https://reddit.com/r/gaming/comments/1sldp62/what_does_gamepass_need_to_change_to_suceed/"
+            ]
+          },
+          {
+            "rank": 3,
+            "title": "Celebration of Gaming Achievements and Media Adaptations",
+            "description": "There's a clear trend of celebrating individual achievements within the gaming community, such as award wins and impressive cosplay, alongside growing interest in major game announcements and media adaptations. The community expresses excitement for new trailers and game reveals, particularly from established franchises like Metro and Capcom titles, while also showing enthusiasm for film adaptations of popular games. This indicates a positive sentiment towards both the recognition of talent and the expansion of beloved gaming universes into other media.",
+            "key_entities": {
+              "companies": [
+                "Capcom",
+                "A24"
+              ],
+              "products": [
+                "Metro 2039",
+                "Elden Ring",
+                "Dragon's Dogma 2"
+              ],
+              "people": [
+                "Jennifer English",
+                "Faith Connors"
+              ]
+            },
+            "sentiment": "positive",
+            "importance": "This trend underscores the community's appreciation for recognition within the industry and its excitement for the cross-media expansion of gaming IPs.",
+            "references": [
+              "https://reddit.com/r/gaming/comments/1sooggz/jennifer_english_won_bafta_award_for_best/",
+              "https://reddit.com/r/gaming/comments/1skj57k/a24s_elden_ring_movie_has_begun_production/",
+              "https://reddit.com/r/gaming/comments/1sn9zrz/metro_2039_official_reveal_trailer/"
+            ]
+          }
+        ],
+        "week_number": 16,
+        "week_label": "Apr 13 – Apr 19, 2026",
+        "post_count": 173,
+        "clusters_found": 5,
+        "noise_posts": 54,
+        "cluster_stats": [
+          {
+            "cluster_id": 1,
+            "importance_score": 1080.94,
+            "post_count": 10,
+            "avg_score": 2055.0,
+            "avg_comments": 129.6,
+            "avg_upvote_ratio": 0.728
+          },
+          {
+            "cluster_id": 3,
+            "importance_score": 956.46,
+            "post_count": 27,
+            "avg_score": 1782.7,
+            "avg_comments": 168.0,
+            "avg_upvote_ratio": 0.734
+          },
+          {
+            "cluster_id": 4,
+            "importance_score": 902.46,
+            "post_count": 17,
+            "avg_score": 1594.2,
+            "avg_comments": 307.9,
+            "avg_upvote_ratio": 0.649
+          },
+          {
+            "cluster_id": 0,
+            "importance_score": 337.11,
+            "post_count": 42,
+            "avg_score": 517.5,
+            "avg_comments": 215.9,
+            "avg_upvote_ratio": 0.679
+          },
+          {
+            "cluster_id": 2,
+            "importance_score": 224.34,
+            "post_count": 23,
+            "avg_score": 362.3,
+            "avg_comments": 101.5,
+            "avg_upvote_ratio": 0.638
+          }
+        ]
+      },
+      {
+        "niche": "gaming",
+        "trends": [
+          {
+            "rank": 1,
+            "title": "Xbox's Strategic Shift and Game Pass Value Debate",
+            "description": "There's a noticeable buzz around Xbox's organizational changes and the perceived value proposition of Game Pass, particularly with Ultimate pricing discussions. Users are actively discussing Microsoft's strategic direction, including the potential reevaluation of exclusive game windows and the overall appeal of their subscription service. This indicates a community keenly observing and debating the future of Xbox's ecosystem and its service offerings.",
+            "key_entities": {
+              "companies": [
+                "Xbox",
+                "Microsoft"
+              ],
+              "products": [
+                "Game Pass Ultimate"
+              ],
+              "people": [
+                "Asha Sharma"
+              ]
+            },
+            "sentiment": "mixed",
+            "importance": "This trend highlights user engagement with Xbox's strategic decisions and subscription models, signaling potential shifts in player loyalty and market perception.",
+            "references": [
+              "https://reddit.com/r/gaming/comments/1stpfxv/microsoft_brings_xbox_back_scraps_microsoft_gaming/",
+              "https://reddit.com/r/gaming/comments/1srs2ci/xbox_game_pass_ultimate_price_update_xbox_wire/",
+              "https://reddit.com/r/gaming/comments/1stsbub/microsofts_new_xbox_chief_asha_sharma_is/"
+            ]
+          },
+          {
+            "rank": 2,
+            "title": "Nostalgia-Driven Game Recommendations and Mechanic Discussions",
+            "description": "A strong undercurrent of nostalgia and community discussion revolves around past gaming experiences and desired game mechanics. Users are actively seeking recommendations for games that evoke feelings of older titles and are engaging in broad discussions about gameplay mechanics they love or loathe. This pattern suggests a community that cherishes its gaming history and is vocal about what makes games memorable and enjoyable, often drawing parallels to beloved older titles.",
+            "key_entities": {
+              "companies": [],
+              "products": [
+                "Ori and The Blind Forest",
+                "remnant2",
+                "Digimon 1"
+              ],
+              "people": []
+            },
+            "sentiment": "positive",
+            "importance": "This trend demonstrates the enduring impact of past games and the community's desire for specific gameplay experiences, guiding developers on what resonates with players.",
+            "references": [
+              "https://reddit.com/r/gaming/comments/1sqoyu4/looking_for_something_similar_to_ori_and_the/",
+              "https://reddit.com/r/gaming/comments/1srlj03/need_a_coop_game_like_remnant2/",
+              "https://reddit.com/r/gaming/comments/1ss2bxp/is_there_a_game_like_digimon_1_from_ps1/"
+            ]
+          }
+        ],
+        "week_number": 17,
+        "week_label": "Apr 20 – Apr 24, 2026",
+        "post_count": 118,
+        "clusters_found": 2,
+        "noise_posts": 37,
+        "cluster_stats": [
+          {
+            "cluster_id": 0,
+            "importance_score": 624.9,
+            "post_count": 35,
+            "avg_score": 1116.5,
+            "avg_comments": 178.3,
+            "avg_upvote_ratio": 0.657
+          },
+          {
+            "cluster_id": 1,
+            "importance_score": 265.27,
+            "post_count": 46,
+            "avg_score": 391.4,
+            "avg_comments": 187.7,
+            "avg_upvote_ratio": 0.663
+          }
+        ]
+      }
+    ],
+    "science": [
+      {
+        "niche": "science",
+        "trends": [
+          {
+            "rank": 1,
+            "title": "Political Polarization and Emotional Bias in Scientific Perception",
+            "description": "There's a significant pattern of studies linking negative emotions and political leanings to how people perceive scientific information and social issues. The community is engaging with this topic due to its direct relevance to understanding societal divisions and mental well-being. This signals a growing concern about how cognitive biases, influenced by emotion and politics, are shaping scientific discourse and individual understanding.",
+            "key_entities": {
+              "companies": [],
+              "products": [],
+              "people": []
+            },
+            "sentiment": "mixed",
+            "importance": "This trend highlights the increasing challenge of objective scientific communication in an era of heightened political polarization and emotional responses.",
+            "references": [
+              "https://reddit.com/r/science/comments/1s58t6k/depression_is_linked_to_a_genuine_pessimistic/",
+              "https://reddit.com/r/science/comments/1s372rw/liberals_see_a_massive_divide_in_vulnerability/",
+              "https://reddit.com/r/science/comments/1s5yqth/people_on_the_political_right_but_not_the/"
+            ]
+          },
+          {
+            "rank": 2,
+            "title": "Public Health, Preventable Deaths, and Vaccine Efficacy Debates",
+            "description": "A recurring theme involves research on public health issues, including the impact of physical inactivity, sodium intake, and the efficacy of vaccines. The community is actively discussing these topics as they relate to widespread health concerns and the effectiveness of medical interventions. This trend indicates a persistent interest in evidence-based public health strategies and ongoing scrutiny of vaccine safety and impact.",
+            "key_entities": {
+              "companies": [],
+              "products": [
+                "COVID vaccines",
+                "flu vaccines",
+                "Kratom"
+              ],
+              "people": []
+            },
+            "sentiment": "positive",
+            "importance": "This trend underscores the public's continued focus on actionable health research and the critical evaluation of medical interventions.",
+            "references": [
+              "https://reddit.com/r/science/comments/1s436w9/physical_inactivity_is_linked_to_500000_deaths/",
+              "https://reddit.com/r/science/comments/1s41exx/covid_vaccines_not_tied_to_risk_of_sudden_death/",
+              "https://reddit.com/r/science/comments/1s36q4a/higher_sodium_intake_5_gday_is_linked_to_20/"
+            ]
+          },
+          {
+            "rank": 3,
+            "title": "Frontiers of Genetics, Cloning, and Animal Behavior",
+            "description": "There's a notable pattern of exploration into cutting-edge genetic research, including cloning, the evolutionary history of species, and unexpected animal behaviors. The community is drawn to these topics due to their 'wow' factor and implications for understanding life's origins and capabilities. This signals a sustained fascination with fundamental biological questions and the potential of scientific innovation.",
+            "key_entities": {
+              "companies": [
+                "NASA"
+              ],
+              "products": [],
+              "people": []
+            },
+            "sentiment": "positive",
+            "importance": "This trend reflects a broad curiosity about the fundamental building blocks of life and the advancing capabilities of biological research.",
+            "references": [
+              "https://reddit.com/r/science/comments/1s3h2od/scientists_tried_to_clone_clones_forever_it_didnt/",
+              "https://reddit.com/r/science/comments/1s4ewqk/scientists_captured_the_first_detailed_footage_of/",
+              "https://reddit.com/r/science/comments/1s3jo29/dogs_were_mans_best_friend_far_earlier_than/"
+            ]
+          }
+        ],
+        "week_number": 13,
+        "week_label": "Mar 25 – Mar 29, 2026",
+        "post_count": 83,
+        "clusters_found": 3,
+        "noise_posts": 12,
+        "cluster_stats": [
+          {
+            "cluster_id": 0,
+            "importance_score": 1935.91,
+            "post_count": 30,
+            "avg_score": 3676.9,
+            "avg_comments": 266.0,
+            "avg_upvote_ratio": 0.882
+          },
+          {
+            "cluster_id": 1,
+            "importance_score": 972.51,
+            "post_count": 31,
+            "avg_score": 1844.2,
+            "avg_comments": 106.8,
+            "avg_upvote_ratio": 0.92
+          },
+          {
+            "cluster_id": 2,
+            "importance_score": 932.92,
+            "post_count": 10,
+            "avg_score": 1760.8,
+            "avg_comments": 113.0,
+            "avg_upvote_ratio": 0.931
+          }
+        ]
+      },
+      {
+        "niche": "science",
+        "trends": [
+          {
+            "rank": 1,
+            "title": "AI's Cognitive Impact and Human Judgment Under Scrutiny",
+            "description": "The community is repeatedly discussing research that explores both the potential drawbacks of AI, such as memory impairment, and how human perception is biased against AI-generated content. This recurring theme suggests a growing concern about AI's integration into daily life and its subtle psychological effects. It signals a societal reckoning with the tools we're adopting, prompting critical evaluation beyond immediate convenience.",
+            "key_entities": {
+              "companies": [],
+              "products": [
+                "ChatGPT"
+              ],
+              "people": []
+            },
+            "sentiment": "mixed",
+            "importance": "This trend highlights a critical, emerging dialogue about the unintended consequences of advanced AI on human cognition and fairness.",
+            "references": [
+              "https://reddit.com/r/science/comments/1s7maha/chatgpt_acts_as_a_cognitive_crutch_that_weakens/",
+              "https://reddit.com/r/science/comments/1sdhkbj/people_consistently_judge_creative_writing_more/"
+            ]
+          },
+          {
+            "rank": 2,
+            "title": "Unveiling Mysteries of Psychedelics, Parenthood, and Social Behavior",
+            "description": "There's a consistent pattern of interest in studies that delve into the complex effects of psychedelics on the human mind and the less-than-ideal impacts of parenthood on well-being. The community is engaged by research that challenges conventional wisdom about personal growth, mental states, and social structures, particularly concerning familial and recreational influences. This indicates a desire to understand nuanced psychological and sociological phenomena that affect individual and societal happiness.",
+            "key_entities": {
+              "companies": [],
+              "products": [],
+              "people": []
+            },
+            "sentiment": "mixed",
+            "importance": "This trend reflects a deep community interest in empirical insights into mental health, personal transformation, and the realities of modern life stages.",
+            "references": [
+              "https://reddit.com/r/science/comments/1sc7ne5/a_single_dose_of_psilocybin_can_lead_to_lasting/",
+              "https://reddit.com/r/science/comments/1sbd83j/study_finds_parenthood_provides_no_boost_to/",
+              "https://reddit.com/r/science/comments/1s9g6wb/men_who_favor_the_tradwife_lifestyle_often_view/"
+            ]
+          }
+        ],
+        "week_number": 14,
+        "week_label": "Mar 30 – Apr 05, 2026",
+        "post_count": 119,
+        "clusters_found": 2,
+        "noise_posts": 9,
+        "cluster_stats": [
+          {
+            "cluster_id": 1,
+            "importance_score": 1383.33,
+            "post_count": 100,
+            "avg_score": 2630.6,
+            "avg_comments": 165.7,
+            "avg_upvote_ratio": 0.917
+          },
+          {
+            "cluster_id": 0,
+            "importance_score": 549.06,
+            "post_count": 10,
+            "avg_score": 1023.8,
+            "avg_comments": 61.0,
+            "avg_upvote_ratio": 0.943
+          }
+        ]
+      },
+      {
+        "niche": "science",
+        "trends": [
+          {
+            "rank": 1,
+            "title": "AI's Role in Human Cognition and Mental Health",
+            "description": "There's a growing discussion around how AI intersects with human cognitive processes, mental health, and even the nature of intelligence itself. Users are engaging with studies exploring the effects of AI, screen time, and social withdrawal on the brain, reflecting a societal concern about technology's impact on well-being. This indicates a community keen on understanding the evolving relationship between humans and artificial intelligence, particularly concerning mental and emotional health.",
+            "key_entities": {
+              "companies": [],
+              "products": [
+                "ChatGPT"
+              ],
+              "people": [
+                "Biased AI"
+              ]
+            },
+            "sentiment": "mixed",
+            "importance": "This trend highlights the immediate societal need to understand and navigate the complex interplay between AI development and human psychological states.",
+            "references": [
+              "https://reddit.com/r/science/comments/1sih8m7/cognitive_dissonance_helps_explain_why_trump/",
+              "https://reddit.com/r/science/comments/1sec0ri/hikikomori_extreme_social_withdrawal_is_becoming/",
+              "https://reddit.com/r/science/comments/1sfrqdc/harvard_life_science_phd_students_outperform/"
+            ]
+          },
+          {
+            "rank": 2,
+            "title": "New Frontiers in Health and Diet Research",
+            "description": "Discussions are focusing on novel approaches to understanding and treating complex health conditions, particularly those related to the immune system and metabolic disorders. The community is actively engaging with research on gene expression, diets, and the long-term health impacts of lifestyle choices, signaling a strong interest in preventative and personalized health strategies. This suggests a rising awareness and demand for scientific insights into optimizing human health through diet and medical innovation.",
+            "key_entities": {
+              "companies": [],
+              "products": [],
+              "people": [
+                "Chimeric Antigen",
+                "Bimagrumab",
+                "Glucagon"
+              ]
+            },
+            "sentiment": "positive",
+            "importance": "This trend underscores a growing public interest in understanding the mechanisms behind health and disease, driving demand for cutting-edge research in immunology and nutrition.",
+            "references": [
+              "https://reddit.com/r/science/comments/1sgvvrl/woman_with_3_autoimmune_diseases_enters_remission/",
+              "https://reddit.com/r/science/comments/1shnjiy/negative_effects_of_artificial_sweeteners_may/",
+              "https://reddit.com/r/science/comments/1sii06o/a_new_study_found_a_vegan_mediterranean_diet/"
+            ]
+          }
+        ],
+        "week_number": 15,
+        "week_label": "Apr 06 – Apr 12, 2026",
+        "post_count": 122,
+        "clusters_found": 2,
+        "noise_posts": 23,
+        "cluster_stats": [
+          {
+            "cluster_id": 0,
+            "importance_score": 1471.87,
+            "post_count": 61,
+            "avg_score": 2815.0,
+            "avg_comments": 152.4,
+            "avg_upvote_ratio": 0.934
+          },
+          {
+            "cluster_id": 1,
+            "importance_score": 540.48,
+            "post_count": 38,
+            "avg_score": 1010.8,
+            "avg_comments": 55.4,
+            "avg_upvote_ratio": 0.922
+          }
+        ]
+      },
+      {
+        "niche": "science",
+        "trends": [
+          {
+            "rank": 1,
+            "title": "AI's Societal Impact and Ethical Concerns Dominates Discussions",
+            "description": "A significant pattern is emerging around the multifaceted impact of Artificial Intelligence on society, particularly its role in research, personal advice, and potential for economic manipulation. Users are repeatedly discussing AI's capabilities and limitations because it's rapidly integrating into daily life, raising both excitement and apprehension about its ethical implications. This signals a growing societal awareness and a desire to understand and perhaps regulate AI's future trajectory.",
+            "key_entities": {
+              "companies": [
+                "Gemini"
+              ],
+              "products": [],
+              "people": [
+                "Grok"
+              ]
+            },
+            "sentiment": "mixed",
+            "importance": "This trend highlights public engagement with the rapidly evolving AI landscape and the critical need for ethical frameworks and societal adaptation.",
+            "references": [
+              "https://reddit.com/r/science/comments/1sprlts/when_autistic_people_ask_ai_programs_for_life/",
+              "https://reddit.com/r/science/comments/1sl8gw7/ai_could_soon_allow_powerful_companies_to_charge/",
+              "https://reddit.com/r/science/comments/1sm5o8n/substantial_amount_of_medical_information/"
+            ]
+          },
+          {
+            "rank": 2,
+            "title": "New Health Discoveries and Brain Function Research Gain Traction",
+            "description": "There's a clear and persistent interest in studies investigating brain function, aging, and the effectiveness of various health interventions and substances. This recurring discussion stems from people's intrinsic desire to understand their health, age better, and find relief from common ailments, fueled by a steady stream of new research findings. It indicates a public eager for scientifically validated information on well-being and disease prevention, particularly concerning neurological health.",
+            "key_entities": {
+              "companies": [
+                "UQ’s Queensland Brain Institute",
+                "QBI",
+                "Stanford University"
+              ],
+              "products": [],
+              "people": [
+                "Fentanyl",
+                "Crohn"
+              ]
+            },
+            "sentiment": "positive",
+            "importance": "This trend reflects a public health consciousness and a proactive search for evidence-based approaches to improving quality of life and addressing health challenges.",
+            "references": [
+              "https://reddit.com/r/science/comments/1skkgs5/fluoride_in_drinking_water_has_no_effect_on_iq_or/",
+              "https://reddit.com/r/science/comments/1smnqy7/scientists_reverse_brain_aging_with_a_nasal_spray/",
+              "https://reddit.com/r/science/comments/1skphfb/tylenol_in_pregnancy_not_linked_with_autism/"
+            ]
+          }
+        ],
+        "week_number": 16,
+        "week_label": "Apr 13 – Apr 19, 2026",
+        "post_count": 121,
+        "clusters_found": 2,
+        "noise_posts": 0,
+        "cluster_stats": [
+          {
+            "cluster_id": 0,
+            "importance_score": 2064.47,
+            "post_count": 21,
+            "avg_score": 3927.8,
+            "avg_comments": 276.2,
+            "avg_upvote_ratio": 0.885
+          },
+          {
+            "cluster_id": 1,
+            "importance_score": 1014.8,
+            "post_count": 100,
+            "avg_score": 1932.3,
+            "avg_comments": 100.4,
+            "avg_upvote_ratio": 0.927
+          }
+        ]
+      },
+      {
+        "niche": "science",
+        "trends": [
+          {
+            "rank": 1,
+            "title": "Health & Brain Impacts of Lifestyle Factors",
+            "description": "A significant pattern is emerging around the health and cognitive consequences of everyday lifestyle choices and environmental exposures, particularly in older adults. The community is actively engaging with research highlighting the long-term impacts of factors like alcohol consumption, napping habits, and prenatal exposures on brain health and development. This signals a growing concern and demand for nuanced understanding of how lifestyle influences our health trajectories across the lifespan.",
+            "key_entities": {
+              "companies": [],
+              "products": [],
+              "people": []
+            },
+            "sentiment": "mixed",
+            "importance": "This trend reflects a public desire to understand modifiable factors that influence long-term health and cognitive function.",
+            "references": [
+              "https://reddit.com/r/science/comments/1stjv8h/even_lowlevel_drinking_may_have_negative/",
+              "https://reddit.com/r/science/comments/1sqwx3p/excessive_napping_may_be_a_warning_sign_of/",
+              "https://reddit.com/r/science/comments/1sqowzv/study_suggests_link_between_prenatal_exposure_to/"
+            ]
+          },
+          {
+            "rank": 2,
+            "title": "Environmental Corporate Accountability & Climate Models",
+            "description": "There's a clear pattern of scrutiny regarding corporate environmental claims and the predictive power of climate models. Users are critically examining the discrepancies between corporate commitments and actual practices, especially in industries like meat and dairy, while also engaging with scientific models predicting climate events like El Niño and their localized impacts. This indicates a community focused on both holding corporations accountable and understanding the scientific basis of environmental change.",
+            "key_entities": {
+              "companies": [
+                "Amazon"
+              ],
+              "products": [],
+              "people": []
+            },
+            "sentiment": "mixed",
+            "importance": "This trend highlights public interest in corporate greenwashing and the reliability of scientific tools for predicting climate impacts.",
+            "references": [
+              "https://reddit.com/r/science/comments/1sszwiw/98_of_all_recent_environmental_claims_and/",
+              "https://reddit.com/r/science/comments/1stuxtz/rising_global_beef_demand_is_creating_a_profit/",
+              "https://reddit.com/r/science/comments/1srnh1k/a_simple_oceanbased_model_predicts_a_powerful_el/"
+            ]
+          }
+        ],
+        "week_number": 17,
+        "week_label": "Apr 20 – Apr 24, 2026",
+        "post_count": 78,
+        "clusters_found": 2,
+        "noise_posts": 30,
+        "cluster_stats": [
+          {
+            "cluster_id": 1,
+            "importance_score": 1266.0,
+            "post_count": 29,
+            "avg_score": 2402.3,
+            "avg_comments": 154.1,
+            "avg_upvote_ratio": 0.93
+          },
+          {
+            "cluster_id": 0,
+            "importance_score": 833.75,
+            "post_count": 19,
+            "avg_score": 1590.3,
+            "avg_comments": 67.8,
+            "avg_upvote_ratio": 0.914
+          }
+        ]
+      }
+    ]
+  }
+}
