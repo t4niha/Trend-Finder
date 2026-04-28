@@ -6,8 +6,8 @@ Utility functions to manage the PostgreSQL database for trending topics:
 - connect_postgres(): Connect to the default Postgres database
 - create_database(): Create the project database if it doesn't exist
 - conn = connect_database(): Connect to the project database
-- drop_table(conn): Drop the trending_topics table if it exists
-- create_table(conn): Create the trending_topics table
+- drop_table(conn): Drop the final_trendingtopics table if it exists
+- create_table(conn): Create the final_trendingtopics table
 - insert_csv(conn, csv_path="..."): Load and insert CSV data into the table
 - table_stats(conn): Print the total number of samples in the table
 
@@ -49,7 +49,7 @@ def connect_database():
         port=DB_PORT
     )
 
-def drop_table(conn, table_name="trending_topics"):
+def drop_table(conn, table_name="final_trendingtopics"):
     cursor = conn.cursor()
     cursor.execute("""
         SELECT EXISTS (
@@ -64,7 +64,7 @@ def drop_table(conn, table_name="trending_topics"):
         print(f"No existing table '{table_name}' to drop")
     cursor.close()
 
-def create_table(conn, table_name="trending_topics"):
+def create_table(conn, table_name="final_trendingtopics"):
     cursor = conn.cursor()
     cursor.execute(f"""
     CREATE TABLE IF NOT EXISTS {table_name} (
@@ -83,7 +83,7 @@ def create_table(conn, table_name="trending_topics"):
     conn.commit()
     print(f"New table '{table_name}' created")
 
-def insert_csv(conn, csv_path="trending_topics.csv", table_name="trending_topics"):
+def insert_csv(conn, csv_path="final_trendingtopics.csv", table_name="final_trendingtopics"):
     df = pd.read_csv(csv_path, dtype=str)
     df['id'] = df['id'].str.strip().str.replace('"','').astype('int')
     df['likes'] = df['likes'].replace(['', 'nan', None], pd.NA).astype('float')
@@ -124,7 +124,7 @@ def insert_csv(conn, csv_path="trending_topics.csv", table_name="trending_topics
     if conflict_count > 0:
         print(f"{conflict_count} skipped due to conflicts")
 
-def table_stats(conn, table_name="trending_topics"):
+def table_stats(conn, table_name="final_trendingtopics"):
     cursor = conn.cursor()
     
     cursor.execute(f"SELECT COUNT(*) FROM {table_name};")

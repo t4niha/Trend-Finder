@@ -2,7 +2,7 @@
 translation.py
 
 Function for detecting language and translating non-English posts
-in the trending_topics table using Google Cloud Translation API:
+in the final_trendingtopics table using Google Cloud Translation API:
 
 - translate_posts(conn): Translates all posts with NULL text_en to English
   and updates the database
@@ -24,7 +24,7 @@ def translate_posts(conn):
     translate_client = translate.Client()
     cursor = conn.cursor()
     
-    cursor.execute("SELECT id, text FROM trending_topics WHERE text_en IS NULL;")
+    cursor.execute("SELECT id, text FROM final_trendingtopics WHERE text_en IS NULL;")
     rows = cursor.fetchall()
     
     print(f"Found {len(rows)} rows to check for translation")
@@ -58,7 +58,7 @@ def translate_posts(conn):
                 unknown_count += 1
         
         cursor.execute(
-            "UPDATE trending_topics SET text_en = %s WHERE id = %s;",
+            "UPDATE final_trendingtopics SET text_en = %s WHERE id = %s;",
             (translated_text, id_)
         )
     
