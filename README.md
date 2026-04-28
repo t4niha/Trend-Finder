@@ -24,11 +24,11 @@
 > Weekly trend analysis across 6 Reddit niches — clustered, scored, and summarised by AI.
 
 <div align="center">
-  <a href="#" target="_blank">
+  <a href="https://drive.google.com/file/d/1Cd3Y9Fh1dCGX65noazCXF3Qj5aqtFwJT/view?usp=sharing" target="_blank">
     <img src="others/assets/interface.png" alt="Reddit Trend Finder Demo" width="780" style="border-radius: 10px; border: 2px solid #2c7be5;" />
   </a>
   <br/>
-  <sub>▶ Click to watch the demo video (Google Drive link coming soon)</sub>
+  <sub>▶ Click to watch the demo video</sub>
 </div>
 
 ---
