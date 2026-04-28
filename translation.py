@@ -24,7 +24,7 @@ def translate_posts(conn):
     translate_client = translate.Client()
     cursor = conn.cursor()
     
-    cursor.execute("SELECT id, text FROM final_trendingtopics WHERE text_en IS NULL;")
+    cursor.execute("SELECT post_id, full_text FROM final_trendingtopics WHERE text_translated IS NULL;")
     rows = cursor.fetchall()
     
     print(f"Found {len(rows)} rows to check for translation")
@@ -33,7 +33,7 @@ def translate_posts(conn):
     english_count = 0
     unknown_count = 0
     
-    for id_, text in tqdm(rows, desc="Translating posts", unit="post"):
+    for post_id, text in tqdm(rows, desc="Translating posts", unit="post"):
         if not text:
             unknown_count += 1
             continue
@@ -58,8 +58,8 @@ def translate_posts(conn):
                 unknown_count += 1
         
         cursor.execute(
-            "UPDATE final_trendingtopics SET text_en = %s WHERE id = %s;",
-            (translated_text, id_)
+            "UPDATE final_trendingtopics SET text_translated = %s WHERE post_id = %s;",
+            (translated_text, post_id)
         )
     
     conn.commit()

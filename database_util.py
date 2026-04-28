@@ -68,15 +68,19 @@ def create_table(conn, table_name="final_trendingtopics"):
     cursor = conn.cursor()
     cursor.execute(f"""
     CREATE TABLE IF NOT EXISTS {table_name} (
-        id BIGINT PRIMARY KEY,
-        text TEXT,
-        text_en TEXT,
-        created_at DATE,
-        username TEXT,
-        likes FLOAT,
-        retweets FLOAT,
-        topic TEXT,
-        timestamp TIMESTAMP
+        post_id TEXT PRIMARY KEY,
+        niche TEXT,
+        title TEXT,
+        author TEXT,
+        score FLOAT,
+        upvote_ratio FLOAT,
+        num_comments FLOAT,
+        timestamp_utc TIMESTAMP,
+        permalink TEXT,
+        url TEXT,
+        selftext TEXT,
+        full_text TEXT,
+        text_translated TEXT
     );
     """)
     cursor.close()
@@ -85,10 +89,10 @@ def create_table(conn, table_name="final_trendingtopics"):
 
 def insert_csv(conn, csv_path="final_trendingtopics.csv", table_name="final_trendingtopics"):
     df = pd.read_csv(csv_path, dtype=str)
-    df['id'] = df['id'].str.strip().str.replace('"','').astype('int')
-    df['likes'] = df['likes'].replace(['', 'nan', None], pd.NA).astype('float')
-    df['retweets'] = df['retweets'].replace(['', 'nan', None], pd.NA).astype('float')
-    df['timestamp'] = df['timestamp'].replace(['', 'nan', None], pd.NA)
+    df['score'] = df['score'].replace(['', 'nan', None], pd.NA).astype('float')
+    df['upvote_ratio'] = df['upvote_ratio'].replace(['', 'nan', None], pd.NA).astype('float')
+    df['num_comments'] = df['num_comments'].replace(['', 'nan', None], pd.NA).astype('float')
+    df['timestamp_utc'] = df['timestamp_utc'].replace(['', 'nan', None], pd.NA)
     
     cursor = conn.cursor()
     inserted_count = 0
@@ -98,19 +102,24 @@ def insert_csv(conn, csv_path="final_trendingtopics.csv", table_name="final_tren
         cursor.execute(
             f"""
             INSERT INTO {table_name} 
-            (id, text, created_at, username, likes, retweets, topic, timestamp)
-            VALUES (%s, %s, %s, %s, %s, %s, %s, %s)
-            ON CONFLICT (id) DO NOTHING
+            (post_id, niche, title, author, score, upvote_ratio, num_comments, timestamp_utc, permalink, url, selftext, full_text, text_translated)
+            VALUES (%s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s)
+            ON CONFLICT (post_id) DO NOTHING
             """,
             (
-                row['id'],
-                row['text'],
-                row['created_at'],
-                row['username'],
-                row['likes'] if pd.notna(row['likes']) else None,
-                row['retweets'] if pd.notna(row['retweets']) else None,
-                row['topic'],
-                row['timestamp'] if pd.notna(row['timestamp']) else None
+                row['post_id'],
+                row['niche'],
+                row['title'],
+                row['author'],
+                row['score'] if pd.notna(row['score']) else None,
+                row['upvote_ratio'] if pd.notna(row['upvote_ratio']) else None,
+                row['num_comments'] if pd.notna(row['num_comments']) else None,
+                row['timestamp_utc'] if pd.notna(row['timestamp_utc']) else None,
+                row['permalink'],
+                row['url'],
+                row['selftext'],
+                row['full_text'],
+                row['text_translated']
             )
         )
         if cursor.rowcount == 1:
