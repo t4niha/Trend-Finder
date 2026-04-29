@@ -172,6 +172,11 @@ Trend-Finder/
 │   │   ├── __init__.py
 │   │   └── text_cleaner.py            # Text cleaning utilities
 │   ├── frontend/                       # React frontend (see below)
+│   ├── notebooks/
+│   │   ├── Agglomerative_Clustering_Analysis.ipynb # Agglomerative Model experiments
+│   │   ├── gmm_reddit_n.ipynb                      # Gaussian Mixture Model experiments
+│   │   └── kmeans_reddit.ipynb                     # K-Means Model experiments
+    │   └── trend_finder_kmeans_llm.ipynb           # K-Means + LLM experiments
 │   ├── output/
 │   │   └── weekly_trends.json         # Generated trend results
 │   ├── __init__.py
