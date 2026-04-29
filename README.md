@@ -12,7 +12,7 @@
 [![React](https://img.shields.io/badge/React-Frontend-61dafb?style=flat-square&logo=react&logoColor=black)](https://react.dev/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow?style=flat-square)](LICENSE)
 
-**CSE445 Group 04 — Machine Learning Project**
+**CSE445 Group 09 — Machine Learning Project**
 *North South University, Spring 2026*
 
 </div>
@@ -177,10 +177,11 @@ Trend-Finder/
 │   │   ├── gmm_reddit_n.ipynb                      # Gaussian Mixture Model experiments
 │   │   └── kmeans_reddit.ipynb                     # K-Means Model experiments
     │   └── trend_finder_kmeans_llm.ipynb           # K-Means + LLM experiments
+    │   └── hdbscan_clustering.ipynb                # HDBSCAN Model experiments
 │   ├── output/
 │   │   └── weekly_trends.json         # Generated trend results
 │   ├── __init__.py
-│   ├── config.py                       # Central configuration
+│   ├── config.py                      # Central configuration
 │   ├── database_util.py               # PostgreSQL + pgvector helpers
 │   ├── setup_database.py              # One-time DB setup
 │   ├── load_reddit_data.py            # CSV → PostgreSQL
@@ -189,6 +190,7 @@ Trend-Finder/
 │   ├── compare_clustering.py          # Weekly model comparison (4 algorithms)
 │   ├── compare_clustering_full.py     # Full-dataset model comparison
 │   ├── gridsearch_hdbscan.py          # Hyperparameter optimization
+│   ├── scrape_reddit.py               # Scrape script
 │   ├── docker-compose.yml             # PostgreSQL + pgvector container
 │   └── .env.example                   # Environment variable template
 ├── others/
@@ -380,7 +382,7 @@ Sweeps 350 combinations of UMAP dimensions, min_cluster_size, min_samples, and c
 
 ---
 
-## 👥 Team Members — Group 04
+## 👥 Team Members — Group 09
 
 | Member | Role |
 |---|---|
