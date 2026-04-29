@@ -6,7 +6,7 @@ from datetime import datetime, timedelta, timezone
 # ============================================================
 #  CONFIG
 # ============================================================
-SCRAPER_API_KEY = '0621c684ab645fbb54c77d90b834f116'
+SCRAPER_API_KEY = 'YOUR_SCRAPERAPI_KEY_HERE'  # Get a free key at https://www.scraperapi.com/
 DAYS_BACK       = 30
 OUTPUT_FILE     = 'reddit_trends_last_30_days.json'
 
